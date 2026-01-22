@@ -1,0 +1,322 @@
+{
+  "surahNumber": 108,
+  "surahName": "Al-Kauthar",
+  "surahNameArabic": "الكوثر",
+  "lastUpdated": "2026-02-02T05:39:52.036Z",
+  "vocabularyQuiz": [
+    {
+      "id": "vocab_108_1",
+      "arabicWord": "إِنَّآ",
+      "normalizedForm": "إنا",
+      "transliteration": "Inna",
+      "correctMeaning": "Indeed/Verily",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "108:1",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "108:1",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_108_2",
+      "arabicWord": "أَعۡطَيۡنَٰكَ",
+      "normalizedForm": "أعطينٰك",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "108:1",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "108:1",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_108_3",
+      "arabicWord": "ٱلۡكَوۡثَرَ",
+      "normalizedForm": "الكوثر",
+      "transliteration": "Kawthar",
+      "correctMeaning": "Abundance",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "108:1",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "108:1",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_108_4",
+      "arabicWord": "فَصَلِّ",
+      "normalizedForm": "فصل",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "108:2",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "108:2",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_108_5",
+      "arabicWord": "لِرَبِّكَ",
+      "normalizedForm": "لربك",
+      "transliteration": "Rabbuka",
+      "correctMeaning": "Your Lord",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "108:2",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "108:2",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_108_6",
+      "arabicWord": "وَٱنۡحَرۡ",
+      "normalizedForm": "وانحر",
+      "transliteration": "Anna/Inna",
+      "correctMeaning": "That/Indeed",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "108:2",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "108:2",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_108_7",
+      "arabicWord": "إِنَّ",
+      "normalizedForm": "إن",
+      "transliteration": "Inna",
+      "correctMeaning": "Indeed/Verily",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "108:3",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "108:3",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_108_8",
+      "arabicWord": "شَانِئَكَ",
+      "normalizedForm": "شانئك",
+      "transliteration": "Shani'ak",
+      "correctMeaning": "Your enemy",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "108:3",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "108:3",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_108_9",
+      "arabicWord": "هُوَ",
+      "normalizedForm": "هو",
+      "transliteration": "Huwa",
+      "correctMeaning": "He",
+      "distractors": [
+        "He",
+        "They",
+        "We"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "108:3",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "108:3",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "pronoun",
+      "tags": [
+        "pronoun"
+      ]
+    },
+    {
+      "id": "vocab_108_10",
+      "arabicWord": "ٱلۡأَبۡتَرُ",
+      "normalizedForm": "الأبتر",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "108:3",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "108:3",
+          "position": 3
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    }
+  ],
+  "tafsirQuiz": [
+    {
+      "id": "tafsir_108_1_0",
+      "type": "tafsir",
+      "questionType": "warningPromise",
+      "question": "What does this verse warn or promise?",
+      "correctAnswer": "The disbelievers used to taunt the Prophet that he had no son, and therefore he had none to uphold his religion after him. the highest success of every kind (kawthar here means khayr kathir)",
+      "distractors": [
+        "This verse discusses the creation of the universe",
+        "This verse talks about the stories of previous prophets",
+        "This verse explains the rules of inheritance"
+      ],
+      "surahNumber": 108,
+      "ayahNumber": 1,
+      "ayahKey": "108:1",
+      "themes": {
+        "hasWarning": true,
+        "hasPromise": true,
+        "hasGuidance": true,
+        "hasWorship": false,
+        "hasUnity": false,
+        "hasMorality": true,
+        "hasHereafter": true,
+        "hasCreation": true
+      },
+      "difficulty": "medium",
+      "keywords": [
+        "disbeliev",
+        "paradise",
+        "success",
+        "promise",
+        "believer"
+      ],
+      "coveredAyahs": [
+        "108:1",
+        "108:2",
+        "108:3"
+      ]
+    }
+  ],
+  "metadata": {
+    "totalVocabQuestions": 10,
+    "totalTafsirQuestions": 0,
+    "totalAyahs": 3,
+    "translationStats": {
+      "complete": 7,
+      "pending": 3,
+      "completionRate": 70
+    },
+    "difficultyBreakdown": {
+      "easy": 0,
+      "medium": 0,
+      "hard": 10
+    }
+  },
+  "tafsirQuizCount": 1
+}

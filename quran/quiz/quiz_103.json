@@ -1,0 +1,403 @@
+{
+  "surahNumber": 103,
+  "surahName": "Al-Asr",
+  "surahNameArabic": "العصر",
+  "lastUpdated": "2026-02-02T05:39:52.032Z",
+  "vocabularyQuiz": [
+    {
+      "id": "vocab_103_1",
+      "arabicWord": "وَٱلۡعَصۡرِ",
+      "normalizedForm": "والعصر",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "103:1",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "103:1",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_103_2",
+      "arabicWord": "إِنَّ",
+      "normalizedForm": "إن",
+      "transliteration": "Inna",
+      "correctMeaning": "Indeed/Verily",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "103:2",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "103:2",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_103_3",
+      "arabicWord": "ٱلۡإِنسَٰنَ",
+      "normalizedForm": "الإنسٰن",
+      "transliteration": "Inna",
+      "correctMeaning": "Indeed/Verily",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "103:2",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "103:2",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_103_4",
+      "arabicWord": "لَفِي",
+      "normalizedForm": "لفي",
+      "transliteration": "Fi",
+      "correctMeaning": "In",
+      "distractors": [
+        "In",
+        "From",
+        "To"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "103:2",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "103:2",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "preposition",
+      "tags": [
+        "preposition"
+      ]
+    },
+    {
+      "id": "vocab_103_5",
+      "arabicWord": "خُسۡرٍ",
+      "normalizedForm": "خسر",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "103:2",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "103:2",
+          "position": 3
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_103_6",
+      "arabicWord": "إِلَّا",
+      "normalizedForm": "إلا",
+      "transliteration": "La",
+      "correctMeaning": "No/Not",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "103:3",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "103:3",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_103_7",
+      "arabicWord": "ٱلَّذِينَ",
+      "normalizedForm": "الذين",
+      "transliteration": "Alladhina",
+      "correctMeaning": "Those who",
+      "distractors": [
+        "He",
+        "They",
+        "We"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "103:3",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "103:3",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "pronoun",
+      "tags": [
+        "pronoun"
+      ]
+    },
+    {
+      "id": "vocab_103_8",
+      "arabicWord": "ءَامَنُواْ",
+      "normalizedForm": "ءامنوا",
+      "transliteration": "Aamanu",
+      "correctMeaning": "They believed",
+      "distractors": [
+        "He went",
+        "They came",
+        "We saw"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "103:3",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "103:3",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "verb",
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "vocab_103_9",
+      "arabicWord": "وَعَمِلُواْ",
+      "normalizedForm": "وعملوا",
+      "transliteration": "Law",
+      "correctMeaning": "If",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "103:3",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "103:3",
+          "position": 3
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_103_10",
+      "arabicWord": "ٱلصَّـٰلِحَٰتِ",
+      "normalizedForm": "الصـٰلحٰت",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "103:3",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "103:3",
+          "position": 4
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_103_11",
+      "arabicWord": "وَتَوَاصَوۡاْ",
+      "normalizedForm": "وتواصوا",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "103:3",
+      "occurrenceCount": 2,
+      "allOccurrences": [
+        {
+          "ayahRef": "103:3",
+          "position": 5
+        },
+        {
+          "ayahRef": "103:3",
+          "position": 7
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_103_12",
+      "arabicWord": "بِٱلۡحَقِّ",
+      "normalizedForm": "بالحق",
+      "transliteration": "Haqq",
+      "correctMeaning": "Truth/Right",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "103:3",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "103:3",
+          "position": 6
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_103_13",
+      "arabicWord": "بِٱلصَّبۡرِ",
+      "normalizedForm": "بالصبر",
+      "transliteration": "Sabr",
+      "correctMeaning": "Patience",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "103:3",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "103:3",
+          "position": 8
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    }
+  ],
+  "tafsirQuiz": [
+    {
+      "id": "tafsir_103_1_0",
+      "type": "tafsir",
+      "questionType": "warningPromise",
+      "question": "What does this verse warn or promise?",
+      "correctAnswer": "This means that if a man does not make the best of the time which is still available to him, he will finally face total destruction. ’ On hearing this shout, the gentleman said to himself that just as the ice melts and reduces, similarly the lifespan given to man is fast passing away",
+      "distractors": [
+        "This verse describes the characteristics of believers",
+        "This verse discusses the creation of the universe",
+        "This verse explains the rules of inheritance"
+      ],
+      "surahNumber": 103,
+      "ayahNumber": 1,
+      "ayahKey": "103:1",
+      "themes": {
+        "hasWarning": true,
+        "hasPromise": true,
+        "hasGuidance": true,
+        "hasWorship": false,
+        "hasUnity": false,
+        "hasMorality": true,
+        "hasHereafter": true,
+        "hasCreation": true
+      },
+      "difficulty": "medium",
+      "keywords": [
+        "destruction",
+        "evil",
+        "sin",
+        "mercy",
+        "success"
+      ],
+      "coveredAyahs": [
+        "103:1",
+        "103:2",
+        "103:3"
+      ]
+    }
+  ],
+  "metadata": {
+    "totalVocabQuestions": 13,
+    "totalTafsirQuestions": 0,
+    "totalAyahs": 3,
+    "translationStats": {
+      "complete": 9,
+      "pending": 4,
+      "completionRate": 69
+    },
+    "difficultyBreakdown": {
+      "easy": 0,
+      "medium": 0,
+      "hard": 13
+    }
+  },
+  "tafsirQuizCount": 1
+}

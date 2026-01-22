@@ -1,0 +1,389 @@
+{
+  "surahNumber": 112,
+  "surahName": "Al-Ikhlas",
+  "surahNameArabic": "الإخلاص",
+  "lastUpdated": "2026-02-02T05:39:52.037Z",
+  "vocabularyQuiz": [
+    {
+      "id": "vocab_112_1",
+      "arabicWord": "قُلۡ",
+      "normalizedForm": "قل",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "112:1",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "112:1",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_112_2",
+      "arabicWord": "هُوَ",
+      "normalizedForm": "هو",
+      "transliteration": "Huwa",
+      "correctMeaning": "He",
+      "distractors": [
+        "He",
+        "They",
+        "We"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "112:1",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "112:1",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "pronoun",
+      "tags": [
+        "pronoun"
+      ]
+    },
+    {
+      "id": "vocab_112_3",
+      "arabicWord": "ٱللَّهُ",
+      "normalizedForm": "الله",
+      "transliteration": "Allah",
+      "correctMeaning": "Allah (God)",
+      "distractors": [
+        "The Creator",
+        "The Provider",
+        "The Sustainer"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "112:1",
+      "occurrenceCount": 2,
+      "allOccurrences": [
+        {
+          "ayahRef": "112:1",
+          "position": 2
+        },
+        {
+          "ayahRef": "112:2",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "name-of-allah",
+      "tags": [
+        "name-of-allah"
+      ]
+    },
+    {
+      "id": "vocab_112_4",
+      "arabicWord": "أَحَدٌ",
+      "normalizedForm": "أحد",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "112:1",
+      "occurrenceCount": 2,
+      "allOccurrences": [
+        {
+          "ayahRef": "112:1",
+          "position": 3
+        },
+        {
+          "ayahRef": "112:4",
+          "position": 4
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_112_5",
+      "arabicWord": "ٱلصَّمَدُ",
+      "normalizedForm": "الصمد",
+      "transliteration": "Samad",
+      "correctMeaning": "Eternal/Absolute",
+      "distractors": [
+        "Great",
+        "Small",
+        "Near"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "112:2",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "112:2",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "adjective",
+      "tags": [
+        "adjective"
+      ]
+    },
+    {
+      "id": "vocab_112_6",
+      "arabicWord": "لَمۡ",
+      "normalizedForm": "لم",
+      "transliteration": "Lam",
+      "correctMeaning": "Did not",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "112:3",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "112:3",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_112_7",
+      "arabicWord": "يَلِدۡ",
+      "normalizedForm": "يلد",
+      "transliteration": "Yalid",
+      "correctMeaning": "He begets",
+      "distractors": [
+        "He went",
+        "They came",
+        "We saw"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "112:3",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "112:3",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "verb",
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "vocab_112_8",
+      "arabicWord": "وَلَمۡ",
+      "normalizedForm": "ولم",
+      "transliteration": "Lam",
+      "correctMeaning": "Did not",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "112:3",
+      "occurrenceCount": 2,
+      "allOccurrences": [
+        {
+          "ayahRef": "112:3",
+          "position": 2
+        },
+        {
+          "ayahRef": "112:4",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_112_9",
+      "arabicWord": "يُولَدۡ",
+      "normalizedForm": "يولد",
+      "transliteration": "Yulad",
+      "correctMeaning": "He is begotten",
+      "distractors": [
+        "He went",
+        "They came",
+        "We saw"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "112:3",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "112:3",
+          "position": 3
+        }
+      ],
+      "difficulty": "hard",
+      "category": "verb",
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "vocab_112_10",
+      "arabicWord": "يَكُن",
+      "normalizedForm": "يكن",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "112:4",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "112:4",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_112_11",
+      "arabicWord": "لَّهُۥ",
+      "normalizedForm": "له",
+      "transliteration": "Lahu",
+      "correctMeaning": "For him",
+      "distractors": [
+        "He",
+        "They",
+        "We"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "112:4",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "112:4",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "pronoun",
+      "tags": [
+        "pronoun"
+      ]
+    },
+    {
+      "id": "vocab_112_12",
+      "arabicWord": "كُفُوًا",
+      "normalizedForm": "كفوا",
+      "transliteration": "Kufuwan",
+      "correctMeaning": "Equal/Comparable",
+      "distractors": [
+        "Great",
+        "Small",
+        "Near"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "112:4",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "112:4",
+          "position": 3
+        }
+      ],
+      "difficulty": "hard",
+      "category": "adjective",
+      "tags": [
+        "adjective"
+      ]
+    }
+  ],
+  "tafsirQuiz": [
+    {
+      "id": "tafsir_112_1_0",
+      "type": "tafsir",
+      "questionType": "warningPromise",
+      "question": "What does this verse warn or promise?",
+      "correctAnswer": "He reigns over all things of the heavens and the earth. The subject of the chapter is monotheism, or the oneness of God",
+      "distractors": [
+        "This verse discusses the creation of the universe",
+        "This verse talks about the stories of previous prophets",
+        "This verse explains the rules of inheritance"
+      ],
+      "surahNumber": 112,
+      "ayahNumber": 1,
+      "ayahKey": "112:1",
+      "themes": {
+        "hasWarning": false,
+        "hasPromise": true,
+        "hasGuidance": false,
+        "hasWorship": false,
+        "hasUnity": true,
+        "hasMorality": false,
+        "hasHereafter": false,
+        "hasCreation": true
+      },
+      "difficulty": "medium",
+      "keywords": [
+        "heaven",
+        "eternal",
+        "one god",
+        "monothe",
+        "oneness"
+      ],
+      "coveredAyahs": [
+        "112:1",
+        "112:2",
+        "112:3",
+        "112:4"
+      ]
+    }
+  ],
+  "metadata": {
+    "totalVocabQuestions": 12,
+    "totalTafsirQuestions": 0,
+    "totalAyahs": 4,
+    "translationStats": {
+      "complete": 9,
+      "pending": 3,
+      "completionRate": 75
+    },
+    "difficultyBreakdown": {
+      "easy": 0,
+      "medium": 0,
+      "hard": 12
+    }
+  },
+  "tafsirQuizCount": 1
+}

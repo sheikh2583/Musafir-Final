@@ -1,0 +1,1035 @@
+{
+  "totalSurahs": 114,
+  "totalUniqueWords": 42396,
+  "totalTranslated": 25017,
+  "totalPending": 17379,
+  "surahStats": [
+    {
+      "surahNumber": 1,
+      "name": "Al-Fatiha",
+      "uniqueWords": 26,
+      "translated": 21,
+      "pending": 5,
+      "completionRate": 81,
+      "totalAyahs": 7
+    },
+    {
+      "surahNumber": 2,
+      "name": "Al-Baqara",
+      "uniqueWords": 2287,
+      "translated": 1287,
+      "pending": 1000,
+      "completionRate": 56,
+      "totalAyahs": 286
+    },
+    {
+      "surahNumber": 3,
+      "name": "Aal-Imran",
+      "uniqueWords": 1475,
+      "translated": 857,
+      "pending": 618,
+      "completionRate": 58,
+      "totalAyahs": 200
+    },
+    {
+      "surahNumber": 4,
+      "name": "An-Nisaa'",
+      "uniqueWords": 1516,
+      "translated": 852,
+      "pending": 664,
+      "completionRate": 56,
+      "totalAyahs": 176
+    },
+    {
+      "surahNumber": 5,
+      "name": "Al-Ma'ida",
+      "uniqueWords": 1259,
+      "translated": 743,
+      "pending": 516,
+      "completionRate": 59,
+      "totalAyahs": 120
+    },
+    {
+      "surahNumber": 6,
+      "name": "Al-An'am",
+      "uniqueWords": 1370,
+      "translated": 789,
+      "pending": 581,
+      "completionRate": 58,
+      "totalAyahs": 165
+    },
+    {
+      "surahNumber": 7,
+      "name": "Al-A'raf",
+      "uniqueWords": 1567,
+      "translated": 875,
+      "pending": 692,
+      "completionRate": 56,
+      "totalAyahs": 206
+    },
+    {
+      "surahNumber": 8,
+      "name": "Al-Anfal",
+      "uniqueWords": 641,
+      "translated": 394,
+      "pending": 247,
+      "completionRate": 61,
+      "totalAyahs": 75
+    },
+    {
+      "surahNumber": 9,
+      "name": "Al-Tawba",
+      "uniqueWords": 1128,
+      "translated": 641,
+      "pending": 487,
+      "completionRate": 57,
+      "totalAyahs": 129
+    },
+    {
+      "surahNumber": 10,
+      "name": "Yunus",
+      "uniqueWords": 891,
+      "translated": 529,
+      "pending": 362,
+      "completionRate": 59,
+      "totalAyahs": 109
+    },
+    {
+      "surahNumber": 11,
+      "name": "Hud",
+      "uniqueWords": 949,
+      "translated": 525,
+      "pending": 424,
+      "completionRate": 55,
+      "totalAyahs": 123
+    },
+    {
+      "surahNumber": 12,
+      "name": "Yusuf",
+      "uniqueWords": 930,
+      "translated": 497,
+      "pending": 433,
+      "completionRate": 53,
+      "totalAyahs": 111
+    },
+    {
+      "surahNumber": 13,
+      "name": "Ar-Ra'd",
+      "uniqueWords": 511,
+      "translated": 308,
+      "pending": 203,
+      "completionRate": 60,
+      "totalAyahs": 43
+    },
+    {
+      "surahNumber": 14,
+      "name": "Ibrahim",
+      "uniqueWords": 509,
+      "translated": 322,
+      "pending": 187,
+      "completionRate": 63,
+      "totalAyahs": 52
+    },
+    {
+      "surahNumber": 15,
+      "name": "Al-Hijr",
+      "uniqueWords": 435,
+      "translated": 273,
+      "pending": 162,
+      "completionRate": 63,
+      "totalAyahs": 99
+    },
+    {
+      "surahNumber": 16,
+      "name": "An-Nahl",
+      "uniqueWords": 922,
+      "translated": 530,
+      "pending": 392,
+      "completionRate": 57,
+      "totalAyahs": 128
+    },
+    {
+      "surahNumber": 17,
+      "name": "Al-Israa",
+      "uniqueWords": 891,
+      "translated": 525,
+      "pending": 366,
+      "completionRate": 59,
+      "totalAyahs": 111
+    },
+    {
+      "surahNumber": 18,
+      "name": "Al-Kahf",
+      "uniqueWords": 918,
+      "translated": 522,
+      "pending": 396,
+      "completionRate": 57,
+      "totalAyahs": 110
+    },
+    {
+      "surahNumber": 19,
+      "name": "Maryam",
+      "uniqueWords": 594,
+      "translated": 339,
+      "pending": 255,
+      "completionRate": 57,
+      "totalAyahs": 98
+    },
+    {
+      "surahNumber": 20,
+      "name": "Ta-Ha",
+      "uniqueWords": 816,
+      "translated": 441,
+      "pending": 375,
+      "completionRate": 54,
+      "totalAyahs": 135
+    },
+    {
+      "surahNumber": 21,
+      "name": "Al-Anbiya",
+      "uniqueWords": 681,
+      "translated": 394,
+      "pending": 287,
+      "completionRate": 58,
+      "totalAyahs": 112
+    },
+    {
+      "surahNumber": 22,
+      "name": "Al-Hajj",
+      "uniqueWords": 694,
+      "translated": 406,
+      "pending": 288,
+      "completionRate": 59,
+      "totalAyahs": 78
+    },
+    {
+      "surahNumber": 23,
+      "name": "Al-Muminun",
+      "uniqueWords": 626,
+      "translated": 388,
+      "pending": 238,
+      "completionRate": 62,
+      "totalAyahs": 118
+    },
+    {
+      "surahNumber": 24,
+      "name": "An-Nur",
+      "uniqueWords": 677,
+      "translated": 396,
+      "pending": 281,
+      "completionRate": 58,
+      "totalAyahs": 64
+    },
+    {
+      "surahNumber": 25,
+      "name": "Al-Furqan",
+      "uniqueWords": 576,
+      "translated": 352,
+      "pending": 224,
+      "completionRate": 61,
+      "totalAyahs": 77
+    },
+    {
+      "surahNumber": 26,
+      "name": "Ash-Shuara",
+      "uniqueWords": 652,
+      "translated": 390,
+      "pending": 262,
+      "completionRate": 60,
+      "totalAyahs": 227
+    },
+    {
+      "surahNumber": 27,
+      "name": "An-Naml",
+      "uniqueWords": 681,
+      "translated": 393,
+      "pending": 288,
+      "completionRate": 58,
+      "totalAyahs": 93
+    },
+    {
+      "surahNumber": 28,
+      "name": "Al-Qasas",
+      "uniqueWords": 794,
+      "translated": 454,
+      "pending": 340,
+      "completionRate": 57,
+      "totalAyahs": 88
+    },
+    {
+      "surahNumber": 29,
+      "name": "Al-Ankabut",
+      "uniqueWords": 576,
+      "translated": 371,
+      "pending": 205,
+      "completionRate": 64,
+      "totalAyahs": 69
+    },
+    {
+      "surahNumber": 30,
+      "name": "Ar-Rum",
+      "uniqueWords": 452,
+      "translated": 281,
+      "pending": 171,
+      "completionRate": 62,
+      "totalAyahs": 60
+    },
+    {
+      "surahNumber": 31,
+      "name": "Luqman",
+      "uniqueWords": 343,
+      "translated": 186,
+      "pending": 157,
+      "completionRate": 54,
+      "totalAyahs": 34
+    },
+    {
+      "surahNumber": 32,
+      "name": "As-Sajdah",
+      "uniqueWords": 281,
+      "translated": 182,
+      "pending": 99,
+      "completionRate": 65,
+      "totalAyahs": 30
+    },
+    {
+      "surahNumber": 33,
+      "name": "Al-Ahzab",
+      "uniqueWords": 692,
+      "translated": 394,
+      "pending": 298,
+      "completionRate": 57,
+      "totalAyahs": 73
+    },
+    {
+      "surahNumber": 34,
+      "name": "Saba",
+      "uniqueWords": 514,
+      "translated": 324,
+      "pending": 190,
+      "completionRate": 63,
+      "totalAyahs": 54
+    },
+    {
+      "surahNumber": 35,
+      "name": "Fatir",
+      "uniqueWords": 484,
+      "translated": 280,
+      "pending": 204,
+      "completionRate": 58,
+      "totalAyahs": 45
+    },
+    {
+      "surahNumber": 36,
+      "name": "Yasin",
+      "uniqueWords": 460,
+      "translated": 307,
+      "pending": 153,
+      "completionRate": 67,
+      "totalAyahs": 83
+    },
+    {
+      "surahNumber": 37,
+      "name": "As-Saffat",
+      "uniqueWords": 537,
+      "translated": 322,
+      "pending": 215,
+      "completionRate": 60,
+      "totalAyahs": 182
+    },
+    {
+      "surahNumber": 38,
+      "name": "Sad",
+      "uniqueWords": 479,
+      "translated": 272,
+      "pending": 207,
+      "completionRate": 57,
+      "totalAyahs": 88
+    },
+    {
+      "surahNumber": 39,
+      "name": "Az-Zumar",
+      "uniqueWords": 640,
+      "translated": 371,
+      "pending": 269,
+      "completionRate": 58,
+      "totalAyahs": 75
+    },
+    {
+      "surahNumber": 40,
+      "name": "Ghafir",
+      "uniqueWords": 668,
+      "translated": 389,
+      "pending": 279,
+      "completionRate": 58,
+      "totalAyahs": 85
+    },
+    {
+      "surahNumber": 41,
+      "name": "Fussilat",
+      "uniqueWords": 515,
+      "translated": 305,
+      "pending": 210,
+      "completionRate": 59,
+      "totalAyahs": 54
+    },
+    {
+      "surahNumber": 42,
+      "name": "Ash-Shura",
+      "uniqueWords": 464,
+      "translated": 274,
+      "pending": 190,
+      "completionRate": 59,
+      "totalAyahs": 53
+    },
+    {
+      "surahNumber": 43,
+      "name": "Az-Zukhruf",
+      "uniqueWords": 547,
+      "translated": 350,
+      "pending": 197,
+      "completionRate": 64,
+      "totalAyahs": 89
+    },
+    {
+      "surahNumber": 44,
+      "name": "Ad-Dukhan",
+      "uniqueWords": 244,
+      "translated": 159,
+      "pending": 85,
+      "completionRate": 65,
+      "totalAyahs": 59
+    },
+    {
+      "surahNumber": 45,
+      "name": "Al-Jathiya",
+      "uniqueWords": 315,
+      "translated": 186,
+      "pending": 129,
+      "completionRate": 59,
+      "totalAyahs": 37
+    },
+    {
+      "surahNumber": 46,
+      "name": "Al-Ahqaf",
+      "uniqueWords": 418,
+      "translated": 262,
+      "pending": 156,
+      "completionRate": 63,
+      "totalAyahs": 35
+    },
+    {
+      "surahNumber": 47,
+      "name": "Muhammad",
+      "uniqueWords": 340,
+      "translated": 222,
+      "pending": 118,
+      "completionRate": 65,
+      "totalAyahs": 38
+    },
+    {
+      "surahNumber": 48,
+      "name": "Al-Fath",
+      "uniqueWords": 363,
+      "translated": 234,
+      "pending": 129,
+      "completionRate": 64,
+      "totalAyahs": 29
+    },
+    {
+      "surahNumber": 49,
+      "name": "Al-Hujurat",
+      "uniqueWords": 217,
+      "translated": 138,
+      "pending": 79,
+      "completionRate": 64,
+      "totalAyahs": 18
+    },
+    {
+      "surahNumber": 50,
+      "name": "Qaf",
+      "uniqueWords": 280,
+      "translated": 178,
+      "pending": 102,
+      "completionRate": 64,
+      "totalAyahs": 45
+    },
+    {
+      "surahNumber": 51,
+      "name": "Az-Zariyat",
+      "uniqueWords": 267,
+      "translated": 167,
+      "pending": 100,
+      "completionRate": 63,
+      "totalAyahs": 60
+    },
+    {
+      "surahNumber": 52,
+      "name": "At-Tur",
+      "uniqueWords": 236,
+      "translated": 147,
+      "pending": 89,
+      "completionRate": 62,
+      "totalAyahs": 49
+    },
+    {
+      "surahNumber": 53,
+      "name": "An-Najm",
+      "uniqueWords": 248,
+      "translated": 123,
+      "pending": 125,
+      "completionRate": 50,
+      "totalAyahs": 62
+    },
+    {
+      "surahNumber": 54,
+      "name": "Al-Qamar",
+      "uniqueWords": 232,
+      "translated": 141,
+      "pending": 91,
+      "completionRate": 61,
+      "totalAyahs": 55
+    },
+    {
+      "surahNumber": 55,
+      "name": "Ar-Rahman",
+      "uniqueWords": 178,
+      "translated": 114,
+      "pending": 64,
+      "completionRate": 64,
+      "totalAyahs": 78
+    },
+    {
+      "surahNumber": 56,
+      "name": "Al-Waqia",
+      "uniqueWords": 272,
+      "translated": 152,
+      "pending": 120,
+      "completionRate": 56,
+      "totalAyahs": 96
+    },
+    {
+      "surahNumber": 57,
+      "name": "Al-Hadid",
+      "uniqueWords": 366,
+      "translated": 227,
+      "pending": 139,
+      "completionRate": 62,
+      "totalAyahs": 29
+    },
+    {
+      "surahNumber": 58,
+      "name": "Al-Mujadilah",
+      "uniqueWords": 275,
+      "translated": 174,
+      "pending": 101,
+      "completionRate": 63,
+      "totalAyahs": 22
+    },
+    {
+      "surahNumber": 59,
+      "name": "Al-Hashr",
+      "uniqueWords": 298,
+      "translated": 190,
+      "pending": 108,
+      "completionRate": 64,
+      "totalAyahs": 24
+    },
+    {
+      "surahNumber": 60,
+      "name": "Al-Mumtahinah",
+      "uniqueWords": 238,
+      "translated": 150,
+      "pending": 88,
+      "completionRate": 63,
+      "totalAyahs": 13
+    },
+    {
+      "surahNumber": 61,
+      "name": "As-Saff",
+      "uniqueWords": 157,
+      "translated": 111,
+      "pending": 46,
+      "completionRate": 71,
+      "totalAyahs": 14
+    },
+    {
+      "surahNumber": 62,
+      "name": "Al-Jumu'ah",
+      "uniqueWords": 132,
+      "translated": 87,
+      "pending": 45,
+      "completionRate": 66,
+      "totalAyahs": 11
+    },
+    {
+      "surahNumber": 63,
+      "name": "Al-Munafiqun",
+      "uniqueWords": 139,
+      "translated": 92,
+      "pending": 47,
+      "completionRate": 66,
+      "totalAyahs": 11
+    },
+    {
+      "surahNumber": 64,
+      "name": "At-Taghabun",
+      "uniqueWords": 183,
+      "translated": 120,
+      "pending": 63,
+      "completionRate": 66,
+      "totalAyahs": 18
+    },
+    {
+      "surahNumber": 65,
+      "name": "At-Talaq",
+      "uniqueWords": 205,
+      "translated": 110,
+      "pending": 95,
+      "completionRate": 54,
+      "totalAyahs": 12
+    },
+    {
+      "surahNumber": 66,
+      "name": "At-Tahrim",
+      "uniqueWords": 197,
+      "translated": 121,
+      "pending": 76,
+      "completionRate": 61,
+      "totalAyahs": 12
+    },
+    {
+      "surahNumber": 67,
+      "name": "Al-Mulk",
+      "uniqueWords": 224,
+      "translated": 124,
+      "pending": 100,
+      "completionRate": 55,
+      "totalAyahs": 30
+    },
+    {
+      "surahNumber": 68,
+      "name": "Al-Qalam",
+      "uniqueWords": 229,
+      "translated": 135,
+      "pending": 94,
+      "completionRate": 59,
+      "totalAyahs": 52
+    },
+    {
+      "surahNumber": 69,
+      "name": "Al-Haqqah",
+      "uniqueWords": 203,
+      "translated": 113,
+      "pending": 90,
+      "completionRate": 56,
+      "totalAyahs": 52
+    },
+    {
+      "surahNumber": 70,
+      "name": "Al-Ma'arij",
+      "uniqueWords": 177,
+      "translated": 110,
+      "pending": 67,
+      "completionRate": 62,
+      "totalAyahs": 44
+    },
+    {
+      "surahNumber": 71,
+      "name": "Nuh",
+      "uniqueWords": 171,
+      "translated": 106,
+      "pending": 65,
+      "completionRate": 62,
+      "totalAyahs": 28
+    },
+    {
+      "surahNumber": 72,
+      "name": "Al-Jinn",
+      "uniqueWords": 202,
+      "translated": 123,
+      "pending": 79,
+      "completionRate": 61,
+      "totalAyahs": 28
+    },
+    {
+      "surahNumber": 73,
+      "name": "Al-Muzzammil",
+      "uniqueWords": 157,
+      "translated": 99,
+      "pending": 58,
+      "completionRate": 63,
+      "totalAyahs": 20
+    },
+    {
+      "surahNumber": 74,
+      "name": "Al-Muddaththir",
+      "uniqueWords": 192,
+      "translated": 122,
+      "pending": 70,
+      "completionRate": 64,
+      "totalAyahs": 56
+    },
+    {
+      "surahNumber": 75,
+      "name": "Al-Qiyamah",
+      "uniqueWords": 124,
+      "translated": 69,
+      "pending": 55,
+      "completionRate": 56,
+      "totalAyahs": 40
+    },
+    {
+      "surahNumber": 76,
+      "name": "Al-Insan",
+      "uniqueWords": 196,
+      "translated": 125,
+      "pending": 71,
+      "completionRate": 64,
+      "totalAyahs": 31
+    },
+    {
+      "surahNumber": 77,
+      "name": "Al-Mursalat",
+      "uniqueWords": 129,
+      "translated": 70,
+      "pending": 59,
+      "completionRate": 54,
+      "totalAyahs": 50
+    },
+    {
+      "surahNumber": 78,
+      "name": "An-Naba",
+      "uniqueWords": 146,
+      "translated": 87,
+      "pending": 59,
+      "completionRate": 60,
+      "totalAyahs": 40
+    },
+    {
+      "surahNumber": 79,
+      "name": "An-Naziat",
+      "uniqueWords": 154,
+      "translated": 75,
+      "pending": 79,
+      "completionRate": 49,
+      "totalAyahs": 46
+    },
+    {
+      "surahNumber": 80,
+      "name": "Abasa",
+      "uniqueWords": 116,
+      "translated": 57,
+      "pending": 59,
+      "completionRate": 49,
+      "totalAyahs": 42
+    },
+    {
+      "surahNumber": 81,
+      "name": "At-Takwir",
+      "uniqueWords": 84,
+      "translated": 46,
+      "pending": 38,
+      "completionRate": 55,
+      "totalAyahs": 29
+    },
+    {
+      "surahNumber": 82,
+      "name": "Al-Infitar",
+      "uniqueWords": 62,
+      "translated": 42,
+      "pending": 20,
+      "completionRate": 68,
+      "totalAyahs": 19
+    },
+    {
+      "surahNumber": 83,
+      "name": "Al-Mutaffifin",
+      "uniqueWords": 119,
+      "translated": 73,
+      "pending": 46,
+      "completionRate": 61,
+      "totalAyahs": 36
+    },
+    {
+      "surahNumber": 84,
+      "name": "Al-Inshiqaq",
+      "uniqueWords": 90,
+      "translated": 53,
+      "pending": 37,
+      "completionRate": 59,
+      "totalAyahs": 25
+    },
+    {
+      "surahNumber": 85,
+      "name": "Al-Buruj",
+      "uniqueWords": 97,
+      "translated": 70,
+      "pending": 27,
+      "completionRate": 72,
+      "totalAyahs": 22
+    },
+    {
+      "surahNumber": 86,
+      "name": "At-Tariq",
+      "uniqueWords": 53,
+      "translated": 33,
+      "pending": 20,
+      "completionRate": 62,
+      "totalAyahs": 17
+    },
+    {
+      "surahNumber": 87,
+      "name": "Al-Ala",
+      "uniqueWords": 67,
+      "translated": 41,
+      "pending": 26,
+      "completionRate": 61,
+      "totalAyahs": 19
+    },
+    {
+      "surahNumber": 88,
+      "name": "Al-Ghashiyah",
+      "uniqueWords": 76,
+      "translated": 40,
+      "pending": 36,
+      "completionRate": 53,
+      "totalAyahs": 26
+    },
+    {
+      "surahNumber": 89,
+      "name": "Al-Fajr",
+      "uniqueWords": 113,
+      "translated": 73,
+      "pending": 40,
+      "completionRate": 65,
+      "totalAyahs": 30
+    },
+    {
+      "surahNumber": 90,
+      "name": "Al-Balad",
+      "uniqueWords": 70,
+      "translated": 43,
+      "pending": 27,
+      "completionRate": 61,
+      "totalAyahs": 20
+    },
+    {
+      "surahNumber": 91,
+      "name": "Ash-Shams",
+      "uniqueWords": 48,
+      "translated": 26,
+      "pending": 22,
+      "completionRate": 54,
+      "totalAyahs": 15
+    },
+    {
+      "surahNumber": 92,
+      "name": "Al-Lail",
+      "uniqueWords": 59,
+      "translated": 28,
+      "pending": 31,
+      "completionRate": 47,
+      "totalAyahs": 21
+    },
+    {
+      "surahNumber": 93,
+      "name": "Ad-Duha",
+      "uniqueWords": 35,
+      "translated": 20,
+      "pending": 15,
+      "completionRate": 57,
+      "totalAyahs": 11
+    },
+    {
+      "surahNumber": 94,
+      "name": "Ash-Sharh",
+      "uniqueWords": 23,
+      "translated": 13,
+      "pending": 10,
+      "completionRate": 57,
+      "totalAyahs": 8
+    },
+    {
+      "surahNumber": 95,
+      "name": "At-Tin",
+      "uniqueWords": 34,
+      "translated": 19,
+      "pending": 15,
+      "completionRate": 56,
+      "totalAyahs": 8
+    },
+    {
+      "surahNumber": 96,
+      "name": "Al-Alaq",
+      "uniqueWords": 55,
+      "translated": 29,
+      "pending": 26,
+      "completionRate": 53,
+      "totalAyahs": 19
+    },
+    {
+      "surahNumber": 97,
+      "name": "Al-Qadr",
+      "uniqueWords": 25,
+      "translated": 17,
+      "pending": 8,
+      "completionRate": 68,
+      "totalAyahs": 5
+    },
+    {
+      "surahNumber": 98,
+      "name": "Al-Bayinah",
+      "uniqueWords": 70,
+      "translated": 47,
+      "pending": 23,
+      "completionRate": 67,
+      "totalAyahs": 8
+    },
+    {
+      "surahNumber": 99,
+      "name": "Az-Zalzalah",
+      "uniqueWords": 29,
+      "translated": 17,
+      "pending": 12,
+      "completionRate": 59,
+      "totalAyahs": 8
+    },
+    {
+      "surahNumber": 100,
+      "name": "Al-Adiyat",
+      "uniqueWords": 35,
+      "translated": 24,
+      "pending": 11,
+      "completionRate": 69,
+      "totalAyahs": 11
+    },
+    {
+      "surahNumber": 101,
+      "name": "Al-Qariah",
+      "uniqueWords": 28,
+      "translated": 17,
+      "pending": 11,
+      "completionRate": 61,
+      "totalAyahs": 11
+    },
+    {
+      "surahNumber": 102,
+      "name": "Al-Takathur",
+      "uniqueWords": 20,
+      "translated": 13,
+      "pending": 7,
+      "completionRate": 65,
+      "totalAyahs": 8
+    },
+    {
+      "surahNumber": 103,
+      "name": "Al-Asr",
+      "uniqueWords": 13,
+      "translated": 9,
+      "pending": 4,
+      "completionRate": 69,
+      "totalAyahs": 3
+    },
+    {
+      "surahNumber": 104,
+      "name": "Al-Humazah",
+      "uniqueWords": 31,
+      "translated": 17,
+      "pending": 14,
+      "completionRate": 55,
+      "totalAyahs": 9
+    },
+    {
+      "surahNumber": 105,
+      "name": "Al-Fil",
+      "uniqueWords": 22,
+      "translated": 17,
+      "pending": 5,
+      "completionRate": 77,
+      "totalAyahs": 5
+    },
+    {
+      "surahNumber": 106,
+      "name": "Quraish",
+      "uniqueWords": 16,
+      "translated": 14,
+      "pending": 2,
+      "completionRate": 88,
+      "totalAyahs": 4
+    },
+    {
+      "surahNumber": 107,
+      "name": "Al-Ma'un",
+      "uniqueWords": 22,
+      "translated": 20,
+      "pending": 2,
+      "completionRate": 91,
+      "totalAyahs": 7
+    },
+    {
+      "surahNumber": 108,
+      "name": "Al-Kauthar",
+      "uniqueWords": 10,
+      "translated": 7,
+      "pending": 3,
+      "completionRate": 70,
+      "totalAyahs": 3
+    },
+    {
+      "surahNumber": 109,
+      "name": "Al-Kafirun",
+      "uniqueWords": 17,
+      "translated": 12,
+      "pending": 5,
+      "completionRate": 71,
+      "totalAyahs": 6
+    },
+    {
+      "surahNumber": 110,
+      "name": "An-Nasr",
+      "uniqueWords": 18,
+      "translated": 15,
+      "pending": 3,
+      "completionRate": 83,
+      "totalAyahs": 3
+    },
+    {
+      "surahNumber": 111,
+      "name": "Al-Masad",
+      "uniqueWords": 22,
+      "translated": 16,
+      "pending": 6,
+      "completionRate": 73,
+      "totalAyahs": 5
+    },
+    {
+      "surahNumber": 112,
+      "name": "Al-Ikhlas",
+      "uniqueWords": 12,
+      "translated": 9,
+      "pending": 3,
+      "completionRate": 75,
+      "totalAyahs": 4
+    },
+    {
+      "surahNumber": 113,
+      "name": "Al-Falaq",
+      "uniqueWords": 17,
+      "translated": 14,
+      "pending": 3,
+      "completionRate": 82,
+      "totalAyahs": 5
+    },
+    {
+      "surahNumber": 114,
+      "name": "An-Nas",
+      "uniqueWords": 16,
+      "translated": 12,
+      "pending": 4,
+      "completionRate": 75,
+      "totalAyahs": 6
+    }
+  ],
+  "overallCompletionRate": 59
+}

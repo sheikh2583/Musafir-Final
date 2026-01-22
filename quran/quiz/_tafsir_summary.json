@@ -1,0 +1,580 @@
+{
+  "generatedAt": "2026-02-02T05:39:52.068Z",
+  "totalSurahs": 112,
+  "totalQuestions": 1932,
+  "statistics": {
+    "byTheme": {
+      "warningPromise": 1456,
+      "concept": 280,
+      "mainMessage": 117,
+      "understanding": 79
+    },
+    "byDifficulty": {
+      "easy": 238,
+      "medium": 1694,
+      "hard": 0
+    }
+  },
+  "surahBreakdown": [
+    {
+      "surahNumber": 1,
+      "surahName": "Al-Fatiha",
+      "questionCount": 2
+    },
+    {
+      "surahNumber": 2,
+      "surahName": "Al-Baqara",
+      "questionCount": 135
+    },
+    {
+      "surahNumber": 3,
+      "surahName": "Aal-Imran",
+      "questionCount": 70
+    },
+    {
+      "surahNumber": 4,
+      "surahName": "An-Nisaa'",
+      "questionCount": 81
+    },
+    {
+      "surahNumber": 5,
+      "surahName": "Al-Ma'ida",
+      "questionCount": 69
+    },
+    {
+      "surahNumber": 6,
+      "surahName": "Al-An'am",
+      "questionCount": 81
+    },
+    {
+      "surahNumber": 7,
+      "surahName": "Al-A'raf",
+      "questionCount": 79
+    },
+    {
+      "surahNumber": 8,
+      "surahName": "Al-Anfal",
+      "questionCount": 30
+    },
+    {
+      "surahNumber": 9,
+      "surahName": "Al-Tawba",
+      "questionCount": 63
+    },
+    {
+      "surahNumber": 10,
+      "surahName": "Yunus",
+      "questionCount": 56
+    },
+    {
+      "surahNumber": 11,
+      "surahName": "Hud",
+      "questionCount": 44
+    },
+    {
+      "surahNumber": 12,
+      "surahName": "Yusuf",
+      "questionCount": 38
+    },
+    {
+      "surahNumber": 13,
+      "surahName": "Ar-Ra'd",
+      "questionCount": 25
+    },
+    {
+      "surahNumber": 14,
+      "surahName": "Ibrahim",
+      "questionCount": 25
+    },
+    {
+      "surahNumber": 15,
+      "surahName": "Al-Hijr",
+      "questionCount": 24
+    },
+    {
+      "surahNumber": 16,
+      "surahName": "An-Nahl",
+      "questionCount": 61
+    },
+    {
+      "surahNumber": 17,
+      "surahName": "Al-Israa",
+      "questionCount": 53
+    },
+    {
+      "surahNumber": 18,
+      "surahName": "Al-Kahf",
+      "questionCount": 45
+    },
+    {
+      "surahNumber": 19,
+      "surahName": "Maryam",
+      "questionCount": 33
+    },
+    {
+      "surahNumber": 20,
+      "surahName": "Ta-Ha",
+      "questionCount": 37
+    },
+    {
+      "surahNumber": 21,
+      "surahName": "Al-Anbiya",
+      "questionCount": 39
+    },
+    {
+      "surahNumber": 22,
+      "surahName": "Al-Hajj",
+      "questionCount": 37
+    },
+    {
+      "surahNumber": 23,
+      "surahName": "Al-Muminun",
+      "questionCount": 32
+    },
+    {
+      "surahNumber": 24,
+      "surahName": "An-Nur",
+      "questionCount": 31
+    },
+    {
+      "surahNumber": 25,
+      "surahName": "Al-Furqan",
+      "questionCount": 27
+    },
+    {
+      "surahNumber": 26,
+      "surahName": "Ash-Shuara",
+      "questionCount": 33
+    },
+    {
+      "surahNumber": 27,
+      "surahName": "An-Naml",
+      "questionCount": 22
+    },
+    {
+      "surahNumber": 28,
+      "surahName": "Al-Qasas",
+      "questionCount": 29
+    },
+    {
+      "surahNumber": 29,
+      "surahName": "Al-Ankabut",
+      "questionCount": 24
+    },
+    {
+      "surahNumber": 30,
+      "surahName": "Ar-Rum",
+      "questionCount": 17
+    },
+    {
+      "surahNumber": 31,
+      "surahName": "Luqman",
+      "questionCount": 12
+    },
+    {
+      "surahNumber": 32,
+      "surahName": "As-Sajdah",
+      "questionCount": 7
+    },
+    {
+      "surahNumber": 33,
+      "surahName": "Al-Ahzab",
+      "questionCount": 28
+    },
+    {
+      "surahNumber": 34,
+      "surahName": "Saba",
+      "questionCount": 19
+    },
+    {
+      "surahNumber": 35,
+      "surahName": "Fatir",
+      "questionCount": 17
+    },
+    {
+      "surahNumber": 36,
+      "surahName": "Yasin",
+      "questionCount": 20
+    },
+    {
+      "surahNumber": 37,
+      "surahName": "As-Saffat",
+      "questionCount": 21
+    },
+    {
+      "surahNumber": 38,
+      "surahName": "Sad",
+      "questionCount": 24
+    },
+    {
+      "surahNumber": 39,
+      "surahName": "Az-Zumar",
+      "questionCount": 26
+    },
+    {
+      "surahNumber": 40,
+      "surahName": "Ghafir",
+      "questionCount": 29
+    },
+    {
+      "surahNumber": 41,
+      "surahName": "Fussilat",
+      "questionCount": 19
+    },
+    {
+      "surahNumber": 42,
+      "surahName": "Ash-Shura",
+      "questionCount": 22
+    },
+    {
+      "surahNumber": 43,
+      "surahName": "Az-Zukhruf",
+      "questionCount": 18
+    },
+    {
+      "surahNumber": 44,
+      "surahName": "Ad-Dukhan",
+      "questionCount": 10
+    },
+    {
+      "surahNumber": 45,
+      "surahName": "Al-Jathiya",
+      "questionCount": 13
+    },
+    {
+      "surahNumber": 46,
+      "surahName": "Al-Ahqaf",
+      "questionCount": 15
+    },
+    {
+      "surahNumber": 47,
+      "surahName": "Muhammad",
+      "questionCount": 13
+    },
+    {
+      "surahNumber": 48,
+      "surahName": "Al-Fath",
+      "questionCount": 14
+    },
+    {
+      "surahNumber": 49,
+      "surahName": "Al-Hujurat",
+      "questionCount": 9
+    },
+    {
+      "surahNumber": 50,
+      "surahName": "Qaf",
+      "questionCount": 10
+    },
+    {
+      "surahNumber": 51,
+      "surahName": "Az-Zariyat",
+      "questionCount": 13
+    },
+    {
+      "surahNumber": 52,
+      "surahName": "At-Tur",
+      "questionCount": 9
+    },
+    {
+      "surahNumber": 53,
+      "surahName": "An-Najm",
+      "questionCount": 13
+    },
+    {
+      "surahNumber": 54,
+      "surahName": "Al-Qamar",
+      "questionCount": 8
+    },
+    {
+      "surahNumber": 55,
+      "surahName": "Ar-Rahman",
+      "questionCount": 7
+    },
+    {
+      "surahNumber": 56,
+      "surahName": "Al-Waqia",
+      "questionCount": 9
+    },
+    {
+      "surahNumber": 57,
+      "surahName": "Al-Hadid",
+      "questionCount": 11
+    },
+    {
+      "surahNumber": 58,
+      "surahName": "Al-Mujadilah",
+      "questionCount": 10
+    },
+    {
+      "surahNumber": 59,
+      "surahName": "Al-Hashr",
+      "questionCount": 9
+    },
+    {
+      "surahNumber": 60,
+      "surahName": "Al-Mumtahinah",
+      "questionCount": 7
+    },
+    {
+      "surahNumber": 61,
+      "surahName": "As-Saff",
+      "questionCount": 6
+    },
+    {
+      "surahNumber": 62,
+      "surahName": "Al-Jumu'ah",
+      "questionCount": 3
+    },
+    {
+      "surahNumber": 63,
+      "surahName": "Al-Munafiqun",
+      "questionCount": 5
+    },
+    {
+      "surahNumber": 64,
+      "surahName": "At-Taghabun",
+      "questionCount": 6
+    },
+    {
+      "surahNumber": 65,
+      "surahName": "At-Talaq",
+      "questionCount": 5
+    },
+    {
+      "surahNumber": 66,
+      "surahName": "At-Tahrim",
+      "questionCount": 6
+    },
+    {
+      "surahNumber": 67,
+      "surahName": "Al-Mulk",
+      "questionCount": 6
+    },
+    {
+      "surahNumber": 68,
+      "surahName": "Al-Qalam",
+      "questionCount": 7
+    },
+    {
+      "surahNumber": 69,
+      "surahName": "Al-Haqqah",
+      "questionCount": 4
+    },
+    {
+      "surahNumber": 70,
+      "surahName": "Al-Ma'arij",
+      "questionCount": 5
+    },
+    {
+      "surahNumber": 71,
+      "surahName": "Nuh",
+      "questionCount": 7
+    },
+    {
+      "surahNumber": 72,
+      "surahName": "Al-Jinn",
+      "questionCount": 3
+    },
+    {
+      "surahNumber": 73,
+      "surahName": "Al-Muzzammil",
+      "questionCount": 5
+    },
+    {
+      "surahNumber": 74,
+      "surahName": "Al-Muddaththir",
+      "questionCount": 6
+    },
+    {
+      "surahNumber": 75,
+      "surahName": "Al-Qiyamah",
+      "questionCount": 4
+    },
+    {
+      "surahNumber": 76,
+      "surahName": "Al-Insan",
+      "questionCount": 4
+    },
+    {
+      "surahNumber": 77,
+      "surahName": "Al-Mursalat",
+      "questionCount": 5
+    },
+    {
+      "surahNumber": 78,
+      "surahName": "An-Naba",
+      "questionCount": 5
+    },
+    {
+      "surahNumber": 79,
+      "surahName": "An-Naziat",
+      "questionCount": 3
+    },
+    {
+      "surahNumber": 80,
+      "surahName": "Abasa",
+      "questionCount": 3
+    },
+    {
+      "surahNumber": 81,
+      "surahName": "At-Takwir",
+      "questionCount": 3
+    },
+    {
+      "surahNumber": 83,
+      "surahName": "Al-Mutaffifin",
+      "questionCount": 3
+    },
+    {
+      "surahNumber": 84,
+      "surahName": "Al-Inshiqaq",
+      "questionCount": 3
+    },
+    {
+      "surahNumber": 85,
+      "surahName": "Al-Buruj",
+      "questionCount": 1
+    },
+    {
+      "surahNumber": 86,
+      "surahName": "At-Tariq",
+      "questionCount": 2
+    },
+    {
+      "surahNumber": 87,
+      "surahName": "Al-Ala",
+      "questionCount": 1
+    },
+    {
+      "surahNumber": 88,
+      "surahName": "Al-Ghashiyah",
+      "questionCount": 2
+    },
+    {
+      "surahNumber": 89,
+      "surahName": "Al-Fajr",
+      "questionCount": 2
+    },
+    {
+      "surahNumber": 90,
+      "surahName": "Al-Balad",
+      "questionCount": 2
+    },
+    {
+      "surahNumber": 91,
+      "surahName": "Ash-Shams",
+      "questionCount": 1
+    },
+    {
+      "surahNumber": 92,
+      "surahName": "Al-Lail",
+      "questionCount": 3
+    },
+    {
+      "surahNumber": 93,
+      "surahName": "Ad-Duha",
+      "questionCount": 2
+    },
+    {
+      "surahNumber": 94,
+      "surahName": "Ash-Sharh",
+      "questionCount": 1
+    },
+    {
+      "surahNumber": 95,
+      "surahName": "At-Tin",
+      "questionCount": 3
+    },
+    {
+      "surahNumber": 96,
+      "surahName": "Al-Alaq",
+      "questionCount": 1
+    },
+    {
+      "surahNumber": 97,
+      "surahName": "Al-Qadr",
+      "questionCount": 2
+    },
+    {
+      "surahNumber": 98,
+      "surahName": "Al-Bayinah",
+      "questionCount": 2
+    },
+    {
+      "surahNumber": 99,
+      "surahName": "Az-Zalzalah",
+      "questionCount": 1
+    },
+    {
+      "surahNumber": 100,
+      "surahName": "Al-Adiyat",
+      "questionCount": 1
+    },
+    {
+      "surahNumber": 101,
+      "surahName": "Al-Qariah",
+      "questionCount": 1
+    },
+    {
+      "surahNumber": 102,
+      "surahName": "Al-Takathur",
+      "questionCount": 1
+    },
+    {
+      "surahNumber": 103,
+      "surahName": "Al-Asr",
+      "questionCount": 1
+    },
+    {
+      "surahNumber": 104,
+      "surahName": "Al-Humazah",
+      "questionCount": 1
+    },
+    {
+      "surahNumber": 105,
+      "surahName": "Al-Fil",
+      "questionCount": 1
+    },
+    {
+      "surahNumber": 106,
+      "surahName": "Quraish",
+      "questionCount": 1
+    },
+    {
+      "surahNumber": 107,
+      "surahName": "Al-Ma'un",
+      "questionCount": 1
+    },
+    {
+      "surahNumber": 108,
+      "surahName": "Al-Kauthar",
+      "questionCount": 1
+    },
+    {
+      "surahNumber": 109,
+      "surahName": "Al-Kafirun",
+      "questionCount": 2
+    },
+    {
+      "surahNumber": 111,
+      "surahName": "Al-Masad",
+      "questionCount": 1
+    },
+    {
+      "surahNumber": 112,
+      "surahName": "Al-Ikhlas",
+      "questionCount": 1
+    },
+    {
+      "surahNumber": 113,
+      "surahName": "Al-Falaq",
+      "questionCount": 1
+    },
+    {
+      "surahNumber": 114,
+      "surahName": "An-Nas",
+      "questionCount": 1
+    }
+  ]
+}

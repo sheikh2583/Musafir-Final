@@ -1,0 +1,7935 @@
+{
+  "surahNumber": 50,
+  "surahName": "Qaf",
+  "surahNameArabic": "ق",
+  "lastUpdated": "2026-02-02T05:39:51.895Z",
+  "vocabularyQuiz": [
+    {
+      "id": "vocab_50_1",
+      "arabicWord": "قٓۚ",
+      "normalizedForm": "ق",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:1",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:1",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_2",
+      "arabicWord": "وَٱلۡقُرۡءَانِ",
+      "normalizedForm": "والقرءان",
+      "transliteration": "Anna/Inna",
+      "correctMeaning": "That/Indeed",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:1",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:1",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_3",
+      "arabicWord": "ٱلۡمَجِيدِ",
+      "normalizedForm": "المجيد",
+      "transliteration": "Yad",
+      "correctMeaning": "Hand",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:1",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:1",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_4",
+      "arabicWord": "بَلۡ",
+      "normalizedForm": "بل",
+      "transliteration": "Bal",
+      "correctMeaning": "Rather/But",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:2",
+      "occurrenceCount": 3,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:2",
+          "position": 0
+        },
+        {
+          "ayahRef": "50:5",
+          "position": 0
+        },
+        {
+          "ayahRef": "50:15",
+          "position": 3
+        }
+      ],
+      "difficulty": "medium",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_5",
+      "arabicWord": "عَجِبُوٓاْ",
+      "normalizedForm": "عجبوا",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:2",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:2",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_6",
+      "arabicWord": "أَن",
+      "normalizedForm": "أن",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:2",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:2",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_7",
+      "arabicWord": "جَآءَهُم",
+      "normalizedForm": "جاءهم",
+      "transliteration": "Hum",
+      "correctMeaning": "They",
+      "distractors": [
+        "He",
+        "They",
+        "We"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:2",
+      "occurrenceCount": 2,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:2",
+          "position": 3
+        },
+        {
+          "ayahRef": "50:5",
+          "position": 4
+        }
+      ],
+      "difficulty": "hard",
+      "category": "pronoun",
+      "tags": [
+        "pronoun"
+      ]
+    },
+    {
+      "id": "vocab_50_8",
+      "arabicWord": "مُّنذِرٞ",
+      "normalizedForm": "منذر",
+      "transliteration": "Min",
+      "correctMeaning": "From/Of",
+      "distractors": [
+        "In",
+        "From",
+        "To"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:2",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:2",
+          "position": 4
+        }
+      ],
+      "difficulty": "hard",
+      "category": "preposition",
+      "tags": [
+        "preposition"
+      ]
+    },
+    {
+      "id": "vocab_50_9",
+      "arabicWord": "مِّنۡهُمۡ",
+      "normalizedForm": "منهم",
+      "transliteration": "Minhum",
+      "correctMeaning": "From them",
+      "distractors": [
+        "He",
+        "They",
+        "We"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:2",
+      "occurrenceCount": 3,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:2",
+          "position": 5
+        },
+        {
+          "ayahRef": "50:4",
+          "position": 5
+        },
+        {
+          "ayahRef": "50:36",
+          "position": 7
+        }
+      ],
+      "difficulty": "medium",
+      "category": "pronoun",
+      "tags": [
+        "pronoun"
+      ]
+    },
+    {
+      "id": "vocab_50_10",
+      "arabicWord": "فَقَالَ",
+      "normalizedForm": "فقال",
+      "transliteration": "Qala",
+      "correctMeaning": "He said",
+      "distractors": [
+        "He went",
+        "They came",
+        "We saw"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "50:2",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:2",
+          "position": 6
+        }
+      ],
+      "difficulty": "hard",
+      "category": "verb",
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "vocab_50_11",
+      "arabicWord": "ٱلۡكَٰفِرُونَ",
+      "normalizedForm": "الكٰفرون",
+      "transliteration": "Laka",
+      "correctMeaning": "For you",
+      "distractors": [
+        "He",
+        "They",
+        "We"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:2",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:2",
+          "position": 7
+        }
+      ],
+      "difficulty": "hard",
+      "category": "pronoun",
+      "tags": [
+        "pronoun"
+      ]
+    },
+    {
+      "id": "vocab_50_12",
+      "arabicWord": "هَٰذَا",
+      "normalizedForm": "هٰذا",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:2",
+      "occurrenceCount": 4,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:2",
+          "position": 8
+        },
+        {
+          "ayahRef": "50:22",
+          "position": 5
+        },
+        {
+          "ayahRef": "50:23",
+          "position": 2
+        },
+        {
+          "ayahRef": "50:32",
+          "position": 0
+        }
+      ],
+      "difficulty": "medium",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_13",
+      "arabicWord": "شَيۡءٌ",
+      "normalizedForm": "شيء",
+      "transliteration": "Shay'",
+      "correctMeaning": "Thing",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:2",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:2",
+          "position": 9
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_14",
+      "arabicWord": "عَجِيبٌ",
+      "normalizedForm": "عجيب",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:2",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:2",
+          "position": 10
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_15",
+      "arabicWord": "أَءِذَا",
+      "normalizedForm": "أءذا",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:3",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:3",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_16",
+      "arabicWord": "مِتۡنَا",
+      "normalizedForm": "متنا",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:3",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:3",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_17",
+      "arabicWord": "وَكُنَّا",
+      "normalizedForm": "وكنا",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:3",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:3",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_18",
+      "arabicWord": "تُرَابٗاۖ",
+      "normalizedForm": "ترابا",
+      "transliteration": "Ab",
+      "correctMeaning": "Father",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:3",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:3",
+          "position": 3
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_19",
+      "arabicWord": "ذَٰلِكَ",
+      "normalizedForm": "ذٰلك",
+      "transliteration": "Laka",
+      "correctMeaning": "For you",
+      "distractors": [
+        "He",
+        "They",
+        "We"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:3",
+      "occurrenceCount": 7,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:3",
+          "position": 4
+        },
+        {
+          "ayahRef": "50:19",
+          "position": 4
+        },
+        {
+          "ayahRef": "50:20",
+          "position": 3
+        },
+        {
+          "ayahRef": "50:34",
+          "position": 2
+        },
+        {
+          "ayahRef": "50:37",
+          "position": 2
+        },
+        {
+          "ayahRef": "50:42",
+          "position": 4
+        },
+        {
+          "ayahRef": "50:44",
+          "position": 5
+        }
+      ],
+      "difficulty": "easy",
+      "category": "pronoun",
+      "tags": [
+        "pronoun"
+      ]
+    },
+    {
+      "id": "vocab_50_20",
+      "arabicWord": "رَجۡعُۢ",
+      "normalizedForm": "رجع",
+      "transliteration": "Raja'a",
+      "correctMeaning": "He returned",
+      "distractors": [
+        "He went",
+        "They came",
+        "We saw"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:3",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:3",
+          "position": 5
+        }
+      ],
+      "difficulty": "hard",
+      "category": "verb",
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "vocab_50_21",
+      "arabicWord": "بَعِيدٞ",
+      "normalizedForm": "بعيد",
+      "transliteration": "Ba'eed",
+      "correctMeaning": "Far",
+      "distractors": [
+        "Great",
+        "Small",
+        "Near"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:3",
+      "occurrenceCount": 3,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:3",
+          "position": 6
+        },
+        {
+          "ayahRef": "50:27",
+          "position": 9
+        },
+        {
+          "ayahRef": "50:31",
+          "position": 4
+        }
+      ],
+      "difficulty": "medium",
+      "category": "adjective",
+      "tags": [
+        "adjective"
+      ]
+    },
+    {
+      "id": "vocab_50_22",
+      "arabicWord": "قَدۡ",
+      "normalizedForm": "قد",
+      "transliteration": "Qad",
+      "correctMeaning": "Already/Indeed",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:4",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:4",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_23",
+      "arabicWord": "عَلِمۡنَا",
+      "normalizedForm": "علمنا",
+      "transliteration": "Min",
+      "correctMeaning": "From/Of",
+      "distractors": [
+        "In",
+        "From",
+        "To"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:4",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:4",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "preposition",
+      "tags": [
+        "preposition"
+      ]
+    },
+    {
+      "id": "vocab_50_24",
+      "arabicWord": "مَا",
+      "normalizedForm": "ما",
+      "transliteration": "Ma",
+      "correctMeaning": "What/Not",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:4",
+      "occurrenceCount": 10,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:4",
+          "position": 2
+        },
+        {
+          "ayahRef": "50:16",
+          "position": 4
+        },
+        {
+          "ayahRef": "50:18",
+          "position": 0
+        },
+        {
+          "ayahRef": "50:19",
+          "position": 5
+        },
+        {
+          "ayahRef": "50:23",
+          "position": 3
+        },
+        {
+          "ayahRef": "50:27",
+          "position": 3
+        },
+        {
+          "ayahRef": "50:29",
+          "position": 0
+        },
+        {
+          "ayahRef": "50:32",
+          "position": 1
+        },
+        {
+          "ayahRef": "50:35",
+          "position": 1
+        },
+        {
+          "ayahRef": "50:39",
+          "position": 2
+        }
+      ],
+      "difficulty": "easy",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_25",
+      "arabicWord": "تَنقُصُ",
+      "normalizedForm": "تنقص",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:4",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:4",
+          "position": 3
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_26",
+      "arabicWord": "ٱلۡأَرۡضُ",
+      "normalizedForm": "الأرض",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:4",
+      "occurrenceCount": 2,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:4",
+          "position": 4
+        },
+        {
+          "ayahRef": "50:44",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_27",
+      "arabicWord": "وَعِندَنَا",
+      "normalizedForm": "وعندنا",
+      "transliteration": "An",
+      "correctMeaning": "From/About",
+      "distractors": [
+        "In",
+        "From",
+        "To"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:4",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:4",
+          "position": 6
+        }
+      ],
+      "difficulty": "hard",
+      "category": "preposition",
+      "tags": [
+        "preposition"
+      ]
+    },
+    {
+      "id": "vocab_50_28",
+      "arabicWord": "كِتَٰبٌ",
+      "normalizedForm": "كتٰب",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:4",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:4",
+          "position": 7
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_29",
+      "arabicWord": "حَفِيظُۢ",
+      "normalizedForm": "حفيظ",
+      "transliteration": "Fi",
+      "correctMeaning": "In",
+      "distractors": [
+        "In",
+        "From",
+        "To"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:4",
+      "occurrenceCount": 2,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:4",
+          "position": 8
+        },
+        {
+          "ayahRef": "50:32",
+          "position": 5
+        }
+      ],
+      "difficulty": "hard",
+      "category": "preposition",
+      "tags": [
+        "preposition"
+      ]
+    },
+    {
+      "id": "vocab_50_30",
+      "arabicWord": "كَذَّبُواْ",
+      "normalizedForm": "كذبوا",
+      "transliteration": "Kadhdhaba",
+      "correctMeaning": "He lied/denied",
+      "distractors": [
+        "He went",
+        "They came",
+        "We saw"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:5",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:5",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "verb",
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "vocab_50_31",
+      "arabicWord": "بِٱلۡحَقِّ",
+      "normalizedForm": "بالحق",
+      "transliteration": "Haqq",
+      "correctMeaning": "Truth/Right",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:5",
+      "occurrenceCount": 3,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:5",
+          "position": 2
+        },
+        {
+          "ayahRef": "50:19",
+          "position": 3
+        },
+        {
+          "ayahRef": "50:42",
+          "position": 3
+        }
+      ],
+      "difficulty": "medium",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_32",
+      "arabicWord": "لَمَّا",
+      "normalizedForm": "لما",
+      "transliteration": "Ma",
+      "correctMeaning": "What/Not",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "50:5",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:5",
+          "position": 3
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_33",
+      "arabicWord": "فَهُمۡ",
+      "normalizedForm": "فهم",
+      "transliteration": "Hum",
+      "correctMeaning": "They",
+      "distractors": [
+        "He",
+        "They",
+        "We"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "50:5",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:5",
+          "position": 5
+        }
+      ],
+      "difficulty": "hard",
+      "category": "pronoun",
+      "tags": [
+        "pronoun"
+      ]
+    },
+    {
+      "id": "vocab_50_34",
+      "arabicWord": "فِيٓ",
+      "normalizedForm": "في",
+      "transliteration": "Fi",
+      "correctMeaning": "In",
+      "distractors": [
+        "In",
+        "From",
+        "To"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:5",
+      "occurrenceCount": 10,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:5",
+          "position": 6
+        },
+        {
+          "ayahRef": "50:15",
+          "position": 5
+        },
+        {
+          "ayahRef": "50:20",
+          "position": 1
+        },
+        {
+          "ayahRef": "50:22",
+          "position": 2
+        },
+        {
+          "ayahRef": "50:24",
+          "position": 1
+        },
+        {
+          "ayahRef": "50:26",
+          "position": 7
+        },
+        {
+          "ayahRef": "50:27",
+          "position": 7
+        },
+        {
+          "ayahRef": "50:36",
+          "position": 10
+        },
+        {
+          "ayahRef": "50:37",
+          "position": 1
+        },
+        {
+          "ayahRef": "50:38",
+          "position": 6
+        }
+      ],
+      "difficulty": "easy",
+      "category": "preposition",
+      "tags": [
+        "preposition"
+      ]
+    },
+    {
+      "id": "vocab_50_35",
+      "arabicWord": "أَمۡرٖ",
+      "normalizedForm": "أمر",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:5",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:5",
+          "position": 7
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_36",
+      "arabicWord": "مَّرِيجٍ",
+      "normalizedForm": "مريج",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:5",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:5",
+          "position": 8
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_37",
+      "arabicWord": "أَفَلَمۡ",
+      "normalizedForm": "أفلم",
+      "transliteration": "Lam",
+      "correctMeaning": "Did not",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:6",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:6",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_38",
+      "arabicWord": "يَنظُرُوٓاْ",
+      "normalizedForm": "ينظروا",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:6",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:6",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_39",
+      "arabicWord": "إِلَى",
+      "normalizedForm": "إلى",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:6",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:6",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_40",
+      "arabicWord": "ٱلسَّمَآءِ",
+      "normalizedForm": "السماء",
+      "transliteration": "Sama",
+      "correctMeaning": "Sky/Heaven",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "50:6",
+      "occurrenceCount": 2,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:6",
+          "position": 3
+        },
+        {
+          "ayahRef": "50:9",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_41",
+      "arabicWord": "فَوۡقَهُمۡ",
+      "normalizedForm": "فوقهم",
+      "transliteration": "Hum",
+      "correctMeaning": "They",
+      "distractors": [
+        "He",
+        "They",
+        "We"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:6",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:6",
+          "position": 4
+        }
+      ],
+      "difficulty": "hard",
+      "category": "pronoun",
+      "tags": [
+        "pronoun"
+      ]
+    },
+    {
+      "id": "vocab_50_42",
+      "arabicWord": "كَيۡفَ",
+      "normalizedForm": "كيف",
+      "transliteration": "Kayfa",
+      "correctMeaning": "How",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:6",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:6",
+          "position": 5
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_43",
+      "arabicWord": "بَنَيۡنَٰهَا",
+      "normalizedForm": "بنينٰها",
+      "transliteration": "Bani",
+      "correctMeaning": "Children of",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:6",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:6",
+          "position": 6
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_44",
+      "arabicWord": "وَزَيَّنَّـٰهَا",
+      "normalizedForm": "وزينـٰها",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:6",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:6",
+          "position": 7
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_45",
+      "arabicWord": "وَمَا",
+      "normalizedForm": "وما",
+      "transliteration": "Ma",
+      "correctMeaning": "What/Not",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "50:6",
+      "occurrenceCount": 5,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:6",
+          "position": 8
+        },
+        {
+          "ayahRef": "50:29",
+          "position": 4
+        },
+        {
+          "ayahRef": "50:38",
+          "position": 4
+        },
+        {
+          "ayahRef": "50:38",
+          "position": 9
+        },
+        {
+          "ayahRef": "50:45",
+          "position": 4
+        }
+      ],
+      "difficulty": "medium",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_46",
+      "arabicWord": "لَهَا",
+      "normalizedForm": "لها",
+      "transliteration": "Laha",
+      "correctMeaning": "For her/it",
+      "distractors": [
+        "He",
+        "They",
+        "We"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:6",
+      "occurrenceCount": 2,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:6",
+          "position": 9
+        },
+        {
+          "ayahRef": "50:10",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "pronoun",
+      "tags": [
+        "pronoun"
+      ]
+    },
+    {
+      "id": "vocab_50_47",
+      "arabicWord": "مِن",
+      "normalizedForm": "من",
+      "transliteration": "Min",
+      "correctMeaning": "From/Of",
+      "distractors": [
+        "In",
+        "From",
+        "To"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:6",
+      "occurrenceCount": 14,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:6",
+          "position": 10
+        },
+        {
+          "ayahRef": "50:7",
+          "position": 7
+        },
+        {
+          "ayahRef": "50:9",
+          "position": 1
+        },
+        {
+          "ayahRef": "50:15",
+          "position": 7
+        },
+        {
+          "ayahRef": "50:16",
+          "position": 11
+        },
+        {
+          "ayahRef": "50:18",
+          "position": 2
+        },
+        {
+          "ayahRef": "50:22",
+          "position": 4
+        },
+        {
+          "ayahRef": "50:30",
+          "position": 7
+        },
+        {
+          "ayahRef": "50:33",
+          "position": 0
+        },
+        {
+          "ayahRef": "50:36",
+          "position": 3
+        },
+        {
+          "ayahRef": "50:36",
+          "position": 13
+        },
+        {
+          "ayahRef": "50:38",
+          "position": 11
+        },
+        {
+          "ayahRef": "50:41",
+          "position": 4
+        },
+        {
+          "ayahRef": "50:45",
+          "position": 10
+        }
+      ],
+      "difficulty": "easy",
+      "category": "preposition",
+      "tags": [
+        "preposition"
+      ]
+    },
+    {
+      "id": "vocab_50_48",
+      "arabicWord": "فُرُوجٖ",
+      "normalizedForm": "فروج",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:6",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:6",
+          "position": 11
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_49",
+      "arabicWord": "وَٱلۡأَرۡضَ",
+      "normalizedForm": "والأرض",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:7",
+      "occurrenceCount": 2,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:7",
+          "position": 0
+        },
+        {
+          "ayahRef": "50:38",
+          "position": 3
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_50",
+      "arabicWord": "مَدَدۡنَٰهَا",
+      "normalizedForm": "مددنٰها",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:7",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:7",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_51",
+      "arabicWord": "وَأَلۡقَيۡنَا",
+      "normalizedForm": "وألقينا",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:7",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:7",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_52",
+      "arabicWord": "فِيهَا",
+      "normalizedForm": "فيها",
+      "transliteration": "Fiha",
+      "correctMeaning": "In it/her",
+      "distractors": [
+        "He",
+        "They",
+        "We"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:7",
+      "occurrenceCount": 3,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:7",
+          "position": 3
+        },
+        {
+          "ayahRef": "50:7",
+          "position": 6
+        },
+        {
+          "ayahRef": "50:35",
+          "position": 3
+        }
+      ],
+      "difficulty": "medium",
+      "category": "pronoun",
+      "tags": [
+        "pronoun"
+      ]
+    },
+    {
+      "id": "vocab_50_53",
+      "arabicWord": "رَوَٰسِيَ",
+      "normalizedForm": "روٰسي",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:7",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:7",
+          "position": 4
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_54",
+      "arabicWord": "وَأَنۢبَتۡنَا",
+      "normalizedForm": "وأنبتنا",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:7",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:7",
+          "position": 5
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_55",
+      "arabicWord": "كُلِّ",
+      "normalizedForm": "كل",
+      "transliteration": "Kull",
+      "correctMeaning": "All/Every",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:7",
+      "occurrenceCount": 4,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:7",
+          "position": 8
+        },
+        {
+          "ayahRef": "50:14",
+          "position": 4
+        },
+        {
+          "ayahRef": "50:21",
+          "position": 1
+        },
+        {
+          "ayahRef": "50:24",
+          "position": 3
+        }
+      ],
+      "difficulty": "medium",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_56",
+      "arabicWord": "زَوۡجِۭ",
+      "normalizedForm": "زوج",
+      "transliteration": "Zawj",
+      "correctMeaning": "Spouse",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:7",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:7",
+          "position": 9
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_57",
+      "arabicWord": "بَهِيجٖ",
+      "normalizedForm": "بهيج",
+      "transliteration": "Bihi",
+      "correctMeaning": "With it/him",
+      "distractors": [
+        "He",
+        "They",
+        "We"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:7",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:7",
+          "position": 10
+        }
+      ],
+      "difficulty": "hard",
+      "category": "pronoun",
+      "tags": [
+        "pronoun"
+      ]
+    },
+    {
+      "id": "vocab_50_58",
+      "arabicWord": "تَبۡصِرَةٗ",
+      "normalizedForm": "تبصرة",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:8",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:8",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_59",
+      "arabicWord": "وَذِكۡرَىٰ",
+      "normalizedForm": "وذكرىٰ",
+      "transliteration": "Dhikr",
+      "correctMeaning": "Remembrance",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:8",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:8",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_60",
+      "arabicWord": "لِكُلِّ",
+      "normalizedForm": "لكل",
+      "transliteration": "Kull",
+      "correctMeaning": "All/Every",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "50:8",
+      "occurrenceCount": 2,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:8",
+          "position": 2
+        },
+        {
+          "ayahRef": "50:32",
+          "position": 3
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_61",
+      "arabicWord": "عَبۡدٖ",
+      "normalizedForm": "عبد",
+      "transliteration": "Abd",
+      "correctMeaning": "Servant/Slave",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:8",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:8",
+          "position": 3
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_62",
+      "arabicWord": "مُّنِيبٖ",
+      "normalizedForm": "منيب",
+      "transliteration": "Min",
+      "correctMeaning": "From/Of",
+      "distractors": [
+        "In",
+        "From",
+        "To"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:8",
+      "occurrenceCount": 2,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:8",
+          "position": 4
+        },
+        {
+          "ayahRef": "50:33",
+          "position": 6
+        }
+      ],
+      "difficulty": "hard",
+      "category": "preposition",
+      "tags": [
+        "preposition"
+      ]
+    },
+    {
+      "id": "vocab_50_63",
+      "arabicWord": "وَنَزَّلۡنَا",
+      "normalizedForm": "ونزلنا",
+      "transliteration": "Lana",
+      "correctMeaning": "For us",
+      "distractors": [
+        "He",
+        "They",
+        "We"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:9",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:9",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "pronoun",
+      "tags": [
+        "pronoun"
+      ]
+    },
+    {
+      "id": "vocab_50_64",
+      "arabicWord": "مَآءٗ",
+      "normalizedForm": "ماء",
+      "transliteration": "Ma'",
+      "correctMeaning": "Water",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:9",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:9",
+          "position": 3
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_65",
+      "arabicWord": "مُّبَٰرَكٗا",
+      "normalizedForm": "مبٰركا",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:9",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:9",
+          "position": 4
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_66",
+      "arabicWord": "فَأَنۢبَتۡنَا",
+      "normalizedForm": "فأنبتنا",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:9",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:9",
+          "position": 5
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_67",
+      "arabicWord": "بِهِۦ",
+      "normalizedForm": "به",
+      "transliteration": "Bihi",
+      "correctMeaning": "With it/him",
+      "distractors": [
+        "He",
+        "They",
+        "We"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:9",
+      "occurrenceCount": 3,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:9",
+          "position": 6
+        },
+        {
+          "ayahRef": "50:11",
+          "position": 3
+        },
+        {
+          "ayahRef": "50:16",
+          "position": 6
+        }
+      ],
+      "difficulty": "medium",
+      "category": "pronoun",
+      "tags": [
+        "pronoun"
+      ]
+    },
+    {
+      "id": "vocab_50_68",
+      "arabicWord": "جَنَّـٰتٖ",
+      "normalizedForm": "جنـٰت",
+      "transliteration": "Jinn",
+      "correctMeaning": "Jinn",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:9",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:9",
+          "position": 7
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_69",
+      "arabicWord": "وَحَبَّ",
+      "normalizedForm": "وحب",
+      "transliteration": "Habba",
+      "correctMeaning": "He loved",
+      "distractors": [
+        "He went",
+        "They came",
+        "We saw"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "50:9",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:9",
+          "position": 8
+        }
+      ],
+      "difficulty": "hard",
+      "category": "verb",
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "vocab_50_70",
+      "arabicWord": "ٱلۡحَصِيدِ",
+      "normalizedForm": "الحصيد",
+      "transliteration": "Yad",
+      "correctMeaning": "Hand",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:9",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:9",
+          "position": 9
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_71",
+      "arabicWord": "وَٱلنَّخۡلَ",
+      "normalizedForm": "والنخل",
+      "transliteration": "Lan",
+      "correctMeaning": "Will not",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:10",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:10",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_72",
+      "arabicWord": "بَاسِقَٰتٖ",
+      "normalizedForm": "باسقٰت",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:10",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:10",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_73",
+      "arabicWord": "طَلۡعٞ",
+      "normalizedForm": "طلع",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:10",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:10",
+          "position": 3
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_74",
+      "arabicWord": "نَّضِيدٞ",
+      "normalizedForm": "نضيد",
+      "transliteration": "Yad",
+      "correctMeaning": "Hand",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:10",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:10",
+          "position": 4
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_75",
+      "arabicWord": "رِّزۡقٗا",
+      "normalizedForm": "رزقا",
+      "transliteration": "Rizq",
+      "correctMeaning": "Provision",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:11",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:11",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_76",
+      "arabicWord": "لِّلۡعِبَادِۖ",
+      "normalizedForm": "للعباد",
+      "transliteration": "Ibad",
+      "correctMeaning": "Servants",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:11",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:11",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_77",
+      "arabicWord": "وَأَحۡيَيۡنَا",
+      "normalizedForm": "وأحيينا",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:11",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:11",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_78",
+      "arabicWord": "بَلۡدَةٗ",
+      "normalizedForm": "بلدة",
+      "transliteration": "Bal",
+      "correctMeaning": "Rather/But",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:11",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:11",
+          "position": 4
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_79",
+      "arabicWord": "مَّيۡتٗاۚ",
+      "normalizedForm": "ميتا",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:11",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:11",
+          "position": 5
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_80",
+      "arabicWord": "كَذَٰلِكَ",
+      "normalizedForm": "كذٰلك",
+      "transliteration": "Laka",
+      "correctMeaning": "For you",
+      "distractors": [
+        "He",
+        "They",
+        "We"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:11",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:11",
+          "position": 6
+        }
+      ],
+      "difficulty": "hard",
+      "category": "pronoun",
+      "tags": [
+        "pronoun"
+      ]
+    },
+    {
+      "id": "vocab_50_81",
+      "arabicWord": "ٱلۡخُرُوجُ",
+      "normalizedForm": "الخروج",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:11",
+      "occurrenceCount": 2,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:11",
+          "position": 7
+        },
+        {
+          "ayahRef": "50:42",
+          "position": 6
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_82",
+      "arabicWord": "كَذَّبَتۡ",
+      "normalizedForm": "كذبت",
+      "transliteration": "Kadhdhaba",
+      "correctMeaning": "He lied/denied",
+      "distractors": [
+        "He went",
+        "They came",
+        "We saw"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:12",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:12",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "verb",
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "vocab_50_83",
+      "arabicWord": "قَبۡلَهُمۡ",
+      "normalizedForm": "قبلهم",
+      "transliteration": "Hum",
+      "correctMeaning": "They",
+      "distractors": [
+        "He",
+        "They",
+        "We"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:12",
+      "occurrenceCount": 2,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:12",
+          "position": 1
+        },
+        {
+          "ayahRef": "50:36",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "pronoun",
+      "tags": [
+        "pronoun"
+      ]
+    },
+    {
+      "id": "vocab_50_84",
+      "arabicWord": "قَوۡمُ",
+      "normalizedForm": "قوم",
+      "transliteration": "Qawm",
+      "correctMeaning": "People/Nation",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:12",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:12",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_85",
+      "arabicWord": "نُوحٖ",
+      "normalizedForm": "نوح",
+      "transliteration": "Nuh",
+      "correctMeaning": "Noah",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:12",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:12",
+          "position": 3
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_86",
+      "arabicWord": "وَأَصۡحَٰبُ",
+      "normalizedForm": "وأصحٰب",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:12",
+      "occurrenceCount": 2,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:12",
+          "position": 4
+        },
+        {
+          "ayahRef": "50:14",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_87",
+      "arabicWord": "ٱلرَّسِّ",
+      "normalizedForm": "الرس",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:12",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:12",
+          "position": 5
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_88",
+      "arabicWord": "وَثَمُودُ",
+      "normalizedForm": "وثمود",
+      "transliteration": "Thumma",
+      "correctMeaning": "Then",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:12",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:12",
+          "position": 6
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_89",
+      "arabicWord": "وَعَادٞ",
+      "normalizedForm": "وعاد",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:13",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:13",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_90",
+      "arabicWord": "وَفِرۡعَوۡنُ",
+      "normalizedForm": "وفرعون",
+      "transliteration": "Fir'awn",
+      "correctMeaning": "Pharaoh",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:13",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:13",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_91",
+      "arabicWord": "وَإِخۡوَٰنُ",
+      "normalizedForm": "وإخوٰن",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:13",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:13",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_92",
+      "arabicWord": "لُوطٖ",
+      "normalizedForm": "لوط",
+      "transliteration": "Law",
+      "correctMeaning": "If",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:13",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:13",
+          "position": 3
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_93",
+      "arabicWord": "ٱلۡأَيۡكَةِ",
+      "normalizedForm": "الأيكة",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:14",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:14",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_94",
+      "arabicWord": "وَقَوۡمُ",
+      "normalizedForm": "وقوم",
+      "transliteration": "Qawm",
+      "correctMeaning": "People/Nation",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "50:14",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:14",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_95",
+      "arabicWord": "تُبَّعٖۚ",
+      "normalizedForm": "تبع",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:14",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:14",
+          "position": 3
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_96",
+      "arabicWord": "كَذَّبَ",
+      "normalizedForm": "كذب",
+      "transliteration": "Kadhdhaba",
+      "correctMeaning": "He lied/denied",
+      "distractors": [
+        "He went",
+        "They came",
+        "We saw"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:14",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:14",
+          "position": 5
+        }
+      ],
+      "difficulty": "hard",
+      "category": "verb",
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "vocab_50_97",
+      "arabicWord": "ٱلرُّسُلَ",
+      "normalizedForm": "الرسل",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:14",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:14",
+          "position": 6
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_98",
+      "arabicWord": "فَحَقَّ",
+      "normalizedForm": "فحق",
+      "transliteration": "Haqq",
+      "correctMeaning": "Truth/Right",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "50:14",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:14",
+          "position": 7
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_99",
+      "arabicWord": "وَعِيدِ",
+      "normalizedForm": "وعيد",
+      "transliteration": "Yad",
+      "correctMeaning": "Hand",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:14",
+      "occurrenceCount": 2,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:14",
+          "position": 8
+        },
+        {
+          "ayahRef": "50:45",
+          "position": 12
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_100",
+      "arabicWord": "أَفَعَيِينَا",
+      "normalizedForm": "أفعيينا",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:15",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:15",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_101",
+      "arabicWord": "بِٱلۡخَلۡقِ",
+      "normalizedForm": "بالخلق",
+      "transliteration": "Khalaqa",
+      "correctMeaning": "He created",
+      "distractors": [
+        "He went",
+        "They came",
+        "We saw"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:15",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:15",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "verb",
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "vocab_50_102",
+      "arabicWord": "ٱلۡأَوَّلِۚ",
+      "normalizedForm": "الأول",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:15",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:15",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_103",
+      "arabicWord": "هُمۡ",
+      "normalizedForm": "هم",
+      "transliteration": "Hum",
+      "correctMeaning": "They",
+      "distractors": [
+        "He",
+        "They",
+        "We"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:15",
+      "occurrenceCount": 2,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:15",
+          "position": 4
+        },
+        {
+          "ayahRef": "50:36",
+          "position": 5
+        }
+      ],
+      "difficulty": "hard",
+      "category": "pronoun",
+      "tags": [
+        "pronoun"
+      ]
+    },
+    {
+      "id": "vocab_50_104",
+      "arabicWord": "لَبۡسٖ",
+      "normalizedForm": "لبس",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:15",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:15",
+          "position": 6
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_105",
+      "arabicWord": "خَلۡقٖ",
+      "normalizedForm": "خلق",
+      "transliteration": "Khalaqa",
+      "correctMeaning": "He created",
+      "distractors": [
+        "He went",
+        "They came",
+        "We saw"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:15",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:15",
+          "position": 8
+        }
+      ],
+      "difficulty": "hard",
+      "category": "verb",
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "vocab_50_106",
+      "arabicWord": "جَدِيدٖ",
+      "normalizedForm": "جديد",
+      "transliteration": "Yad",
+      "correctMeaning": "Hand",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:15",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:15",
+          "position": 9
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_107",
+      "arabicWord": "وَلَقَدۡ",
+      "normalizedForm": "ولقد",
+      "transliteration": "Qad",
+      "correctMeaning": "Already/Indeed",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "50:16",
+      "occurrenceCount": 2,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:16",
+          "position": 0
+        },
+        {
+          "ayahRef": "50:38",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_108",
+      "arabicWord": "خَلَقۡنَا",
+      "normalizedForm": "خلقنا",
+      "transliteration": "Khalaqa",
+      "correctMeaning": "He created",
+      "distractors": [
+        "He went",
+        "They came",
+        "We saw"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:16",
+      "occurrenceCount": 2,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:16",
+          "position": 1
+        },
+        {
+          "ayahRef": "50:38",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "verb",
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "vocab_50_109",
+      "arabicWord": "ٱلۡإِنسَٰنَ",
+      "normalizedForm": "الإنسٰن",
+      "transliteration": "Inna",
+      "correctMeaning": "Indeed/Verily",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:16",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:16",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_110",
+      "arabicWord": "وَنَعۡلَمُ",
+      "normalizedForm": "ونعلم",
+      "transliteration": "Lam",
+      "correctMeaning": "Did not",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:16",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:16",
+          "position": 3
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_111",
+      "arabicWord": "تُوَسۡوِسُ",
+      "normalizedForm": "توسوس",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:16",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:16",
+          "position": 5
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_112",
+      "arabicWord": "نَفۡسُهُۥۖ",
+      "normalizedForm": "نفسه",
+      "transliteration": "Nafs",
+      "correctMeaning": "Soul/Self",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:16",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:16",
+          "position": 7
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_113",
+      "arabicWord": "وَنَحۡنُ",
+      "normalizedForm": "ونحن",
+      "transliteration": "Nahnu",
+      "correctMeaning": "We",
+      "distractors": [
+        "He",
+        "They",
+        "We"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "50:16",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:16",
+          "position": 8
+        }
+      ],
+      "difficulty": "hard",
+      "category": "pronoun",
+      "tags": [
+        "pronoun"
+      ]
+    },
+    {
+      "id": "vocab_50_114",
+      "arabicWord": "أَقۡرَبُ",
+      "normalizedForm": "أقرب",
+      "transliteration": "Rabb",
+      "correctMeaning": "Lord",
+      "distractors": [
+        "The Creator",
+        "The Provider",
+        "The Sustainer"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:16",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:16",
+          "position": 9
+        }
+      ],
+      "difficulty": "hard",
+      "category": "name-of-allah",
+      "tags": [
+        "name-of-allah"
+      ]
+    },
+    {
+      "id": "vocab_50_115",
+      "arabicWord": "إِلَيۡهِ",
+      "normalizedForm": "إليه",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:16",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:16",
+          "position": 10
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_116",
+      "arabicWord": "حَبۡلِ",
+      "normalizedForm": "حبل",
+      "transliteration": "Bal",
+      "correctMeaning": "Rather/But",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:16",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:16",
+          "position": 12
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_117",
+      "arabicWord": "ٱلۡوَرِيدِ",
+      "normalizedForm": "الوريد",
+      "transliteration": "Yad",
+      "correctMeaning": "Hand",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:16",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:16",
+          "position": 13
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_118",
+      "arabicWord": "إِذۡ",
+      "normalizedForm": "إذ",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:17",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:17",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_119",
+      "arabicWord": "يَتَلَقَّى",
+      "normalizedForm": "يتلقى",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:17",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:17",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_120",
+      "arabicWord": "ٱلۡمُتَلَقِّيَانِ",
+      "normalizedForm": "المتلقيان",
+      "transliteration": "Anna/Inna",
+      "correctMeaning": "That/Indeed",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:17",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:17",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_121",
+      "arabicWord": "عَنِ",
+      "normalizedForm": "عن",
+      "transliteration": "An",
+      "correctMeaning": "From/About",
+      "distractors": [
+        "In",
+        "From",
+        "To"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:17",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:17",
+          "position": 3
+        }
+      ],
+      "difficulty": "hard",
+      "category": "preposition",
+      "tags": [
+        "preposition"
+      ]
+    },
+    {
+      "id": "vocab_50_122",
+      "arabicWord": "ٱلۡيَمِينِ",
+      "normalizedForm": "اليمين",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:17",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:17",
+          "position": 4
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_123",
+      "arabicWord": "وَعَنِ",
+      "normalizedForm": "وعن",
+      "transliteration": "An",
+      "correctMeaning": "From/About",
+      "distractors": [
+        "In",
+        "From",
+        "To"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "50:17",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:17",
+          "position": 5
+        }
+      ],
+      "difficulty": "hard",
+      "category": "preposition",
+      "tags": [
+        "preposition"
+      ]
+    },
+    {
+      "id": "vocab_50_124",
+      "arabicWord": "ٱلشِّمَالِ",
+      "normalizedForm": "الشمال",
+      "transliteration": "Ma",
+      "correctMeaning": "What/Not",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:17",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:17",
+          "position": 6
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_125",
+      "arabicWord": "قَعِيدٞ",
+      "normalizedForm": "قعيد",
+      "transliteration": "Yad",
+      "correctMeaning": "Hand",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:17",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:17",
+          "position": 7
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_126",
+      "arabicWord": "يَلۡفِظُ",
+      "normalizedForm": "يلفظ",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:18",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:18",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_127",
+      "arabicWord": "قَوۡلٍ",
+      "normalizedForm": "قول",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:18",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:18",
+          "position": 3
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_128",
+      "arabicWord": "إِلَّا",
+      "normalizedForm": "إلا",
+      "transliteration": "La",
+      "correctMeaning": "No/Not",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:18",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:18",
+          "position": 4
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_129",
+      "arabicWord": "لَدَيۡهِ",
+      "normalizedForm": "لديه",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:18",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:18",
+          "position": 5
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_130",
+      "arabicWord": "رَقِيبٌ",
+      "normalizedForm": "رقيب",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:18",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:18",
+          "position": 6
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_131",
+      "arabicWord": "عَتِيدٞ",
+      "normalizedForm": "عتيد",
+      "transliteration": "Yad",
+      "correctMeaning": "Hand",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:18",
+      "occurrenceCount": 2,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:18",
+          "position": 7
+        },
+        {
+          "ayahRef": "50:23",
+          "position": 5
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_132",
+      "arabicWord": "وَجَآءَتۡ",
+      "normalizedForm": "وجاءت",
+      "transliteration": "Ja'a",
+      "correctMeaning": "He came",
+      "distractors": [
+        "He went",
+        "They came",
+        "We saw"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:19",
+      "occurrenceCount": 2,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:19",
+          "position": 0
+        },
+        {
+          "ayahRef": "50:21",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "verb",
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "vocab_50_133",
+      "arabicWord": "سَكۡرَةُ",
+      "normalizedForm": "سكرة",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:19",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:19",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_134",
+      "arabicWord": "ٱلۡمَوۡتِ",
+      "normalizedForm": "الموت",
+      "transliteration": "Mawt",
+      "correctMeaning": "Death",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "50:19",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:19",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_135",
+      "arabicWord": "كُنتَ",
+      "normalizedForm": "كنت",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:19",
+      "occurrenceCount": 2,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:19",
+          "position": 6
+        },
+        {
+          "ayahRef": "50:22",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_136",
+      "arabicWord": "مِنۡهُ",
+      "normalizedForm": "منه",
+      "transliteration": "Min",
+      "correctMeaning": "From/Of",
+      "distractors": [
+        "In",
+        "From",
+        "To"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:19",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:19",
+          "position": 7
+        }
+      ],
+      "difficulty": "hard",
+      "category": "preposition",
+      "tags": [
+        "preposition"
+      ]
+    },
+    {
+      "id": "vocab_50_137",
+      "arabicWord": "تَحِيدُ",
+      "normalizedForm": "تحيد",
+      "transliteration": "Yad",
+      "correctMeaning": "Hand",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:19",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:19",
+          "position": 8
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_138",
+      "arabicWord": "وَنُفِخَ",
+      "normalizedForm": "ونفخ",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:20",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:20",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_139",
+      "arabicWord": "ٱلصُّورِۚ",
+      "normalizedForm": "الصور",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:20",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:20",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_140",
+      "arabicWord": "يَوۡمُ",
+      "normalizedForm": "يوم",
+      "transliteration": "Yawm",
+      "correctMeaning": "Day",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:20",
+      "occurrenceCount": 7,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:20",
+          "position": 4
+        },
+        {
+          "ayahRef": "50:30",
+          "position": 0
+        },
+        {
+          "ayahRef": "50:34",
+          "position": 3
+        },
+        {
+          "ayahRef": "50:41",
+          "position": 1
+        },
+        {
+          "ayahRef": "50:42",
+          "position": 0
+        },
+        {
+          "ayahRef": "50:42",
+          "position": 5
+        },
+        {
+          "ayahRef": "50:44",
+          "position": 0
+        }
+      ],
+      "difficulty": "easy",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_141",
+      "arabicWord": "ٱلۡوَعِيدِ",
+      "normalizedForm": "الوعيد",
+      "transliteration": "Yad",
+      "correctMeaning": "Hand",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:20",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:20",
+          "position": 5
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_142",
+      "arabicWord": "نَفۡسٖ",
+      "normalizedForm": "نفس",
+      "transliteration": "Nafs",
+      "correctMeaning": "Soul/Self",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:21",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:21",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_143",
+      "arabicWord": "مَّعَهَا",
+      "normalizedForm": "معها",
+      "transliteration": "Ma'a",
+      "correctMeaning": "With",
+      "distractors": [
+        "In",
+        "From",
+        "To"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:21",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:21",
+          "position": 3
+        }
+      ],
+      "difficulty": "hard",
+      "category": "preposition",
+      "tags": [
+        "preposition"
+      ]
+    },
+    {
+      "id": "vocab_50_144",
+      "arabicWord": "سَآئِقٞ",
+      "normalizedForm": "سائق",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:21",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:21",
+          "position": 4
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_145",
+      "arabicWord": "وَشَهِيدٞ",
+      "normalizedForm": "وشهيد",
+      "transliteration": "Yad",
+      "correctMeaning": "Hand",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:21",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:21",
+          "position": 5
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_146",
+      "arabicWord": "لَّقَدۡ",
+      "normalizedForm": "لقد",
+      "transliteration": "Qad",
+      "correctMeaning": "Already/Indeed",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "50:22",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:22",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_147",
+      "arabicWord": "غَفۡلَةٖ",
+      "normalizedForm": "غفلة",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:22",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:22",
+          "position": 3
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_148",
+      "arabicWord": "فَكَشَفۡنَا",
+      "normalizedForm": "فكشفنا",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:22",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:22",
+          "position": 6
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_149",
+      "arabicWord": "عَنكَ",
+      "normalizedForm": "عنك",
+      "transliteration": "An",
+      "correctMeaning": "From/About",
+      "distractors": [
+        "In",
+        "From",
+        "To"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:22",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:22",
+          "position": 7
+        }
+      ],
+      "difficulty": "hard",
+      "category": "preposition",
+      "tags": [
+        "preposition"
+      ]
+    },
+    {
+      "id": "vocab_50_150",
+      "arabicWord": "غِطَآءَكَ",
+      "normalizedForm": "غطاءك",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:22",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:22",
+          "position": 8
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_151",
+      "arabicWord": "فَبَصَرُكَ",
+      "normalizedForm": "فبصرك",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:22",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:22",
+          "position": 9
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_152",
+      "arabicWord": "ٱلۡيَوۡمَ",
+      "normalizedForm": "اليوم",
+      "transliteration": "Yawm",
+      "correctMeaning": "Day",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "50:22",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:22",
+          "position": 10
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_153",
+      "arabicWord": "حَدِيدٞ",
+      "normalizedForm": "حديد",
+      "transliteration": "Yad",
+      "correctMeaning": "Hand",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:22",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:22",
+          "position": 11
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_154",
+      "arabicWord": "وَقَالَ",
+      "normalizedForm": "وقال",
+      "transliteration": "Qala",
+      "correctMeaning": "He said",
+      "distractors": [
+        "He went",
+        "They came",
+        "We saw"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "50:23",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:23",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "verb",
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "vocab_50_155",
+      "arabicWord": "قَرِينُهُۥ",
+      "normalizedForm": "قرينه",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:23",
+      "occurrenceCount": 2,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:23",
+          "position": 1
+        },
+        {
+          "ayahRef": "50:27",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_156",
+      "arabicWord": "لَدَيَّ",
+      "normalizedForm": "لدي",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:23",
+      "occurrenceCount": 3,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:23",
+          "position": 4
+        },
+        {
+          "ayahRef": "50:28",
+          "position": 3
+        },
+        {
+          "ayahRef": "50:29",
+          "position": 3
+        }
+      ],
+      "difficulty": "medium",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_157",
+      "arabicWord": "أَلۡقِيَا",
+      "normalizedForm": "ألقيا",
+      "transliteration": "Ya",
+      "correctMeaning": "O (vocative)",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:24",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:24",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_158",
+      "arabicWord": "جَهَنَّمَ",
+      "normalizedForm": "جهنم",
+      "transliteration": "Jahannam",
+      "correctMeaning": "Hell",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:24",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:24",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_159",
+      "arabicWord": "كَفَّارٍ",
+      "normalizedForm": "كفار",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:24",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:24",
+          "position": 4
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_160",
+      "arabicWord": "عَنِيدٖ",
+      "normalizedForm": "عنيد",
+      "transliteration": "An",
+      "correctMeaning": "From/About",
+      "distractors": [
+        "In",
+        "From",
+        "To"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:24",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:24",
+          "position": 5
+        }
+      ],
+      "difficulty": "hard",
+      "category": "preposition",
+      "tags": [
+        "preposition"
+      ]
+    },
+    {
+      "id": "vocab_50_161",
+      "arabicWord": "مَّنَّاعٖ",
+      "normalizedForm": "مناع",
+      "transliteration": "Min",
+      "correctMeaning": "From/Of",
+      "distractors": [
+        "In",
+        "From",
+        "To"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:25",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:25",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "preposition",
+      "tags": [
+        "preposition"
+      ]
+    },
+    {
+      "id": "vocab_50_162",
+      "arabicWord": "لِّلۡخَيۡرِ",
+      "normalizedForm": "للخير",
+      "transliteration": "Khayr",
+      "correctMeaning": "Good",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:25",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:25",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_163",
+      "arabicWord": "مُعۡتَدٖ",
+      "normalizedForm": "معتد",
+      "transliteration": "Ma'a",
+      "correctMeaning": "With",
+      "distractors": [
+        "In",
+        "From",
+        "To"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:25",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:25",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "preposition",
+      "tags": [
+        "preposition"
+      ]
+    },
+    {
+      "id": "vocab_50_164",
+      "arabicWord": "مُّرِيبٍ",
+      "normalizedForm": "مريب",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:25",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:25",
+          "position": 3
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_165",
+      "arabicWord": "ٱلَّذِي",
+      "normalizedForm": "الذي",
+      "transliteration": "Alladhi",
+      "correctMeaning": "The one who/Which",
+      "distractors": [
+        "He",
+        "They",
+        "We"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:26",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:26",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "pronoun",
+      "tags": [
+        "pronoun"
+      ]
+    },
+    {
+      "id": "vocab_50_166",
+      "arabicWord": "جَعَلَ",
+      "normalizedForm": "جعل",
+      "transliteration": "Ja'ala",
+      "correctMeaning": "He made",
+      "distractors": [
+        "He went",
+        "They came",
+        "We saw"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:26",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:26",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "verb",
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "vocab_50_167",
+      "arabicWord": "مَعَ",
+      "normalizedForm": "مع",
+      "transliteration": "Ma'a",
+      "correctMeaning": "With",
+      "distractors": [
+        "In",
+        "From",
+        "To"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:26",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:26",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "preposition",
+      "tags": [
+        "preposition"
+      ]
+    },
+    {
+      "id": "vocab_50_168",
+      "arabicWord": "ٱللَّهِ",
+      "normalizedForm": "الله",
+      "transliteration": "Allah",
+      "correctMeaning": "Allah (God)",
+      "distractors": [
+        "The Creator",
+        "The Provider",
+        "The Sustainer"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:26",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:26",
+          "position": 3
+        }
+      ],
+      "difficulty": "hard",
+      "category": "name-of-allah",
+      "tags": [
+        "name-of-allah"
+      ]
+    },
+    {
+      "id": "vocab_50_169",
+      "arabicWord": "إِلَٰهًا",
+      "normalizedForm": "إلٰها",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:26",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:26",
+          "position": 4
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_170",
+      "arabicWord": "ءَاخَرَ",
+      "normalizedForm": "ءاخر",
+      "transliteration": "Akhir",
+      "correctMeaning": "Last/Other",
+      "distractors": [
+        "Great",
+        "Small",
+        "Near"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:26",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:26",
+          "position": 5
+        }
+      ],
+      "difficulty": "hard",
+      "category": "adjective",
+      "tags": [
+        "adjective"
+      ]
+    },
+    {
+      "id": "vocab_50_171",
+      "arabicWord": "فَأَلۡقِيَاهُ",
+      "normalizedForm": "فألقياه",
+      "transliteration": "Ya",
+      "correctMeaning": "O (vocative)",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:26",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:26",
+          "position": 6
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_172",
+      "arabicWord": "ٱلۡعَذَابِ",
+      "normalizedForm": "العذاب",
+      "transliteration": "Adhab",
+      "correctMeaning": "Punishment",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "50:26",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:26",
+          "position": 8
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_173",
+      "arabicWord": "ٱلشَّدِيدِ",
+      "normalizedForm": "الشديد",
+      "transliteration": "Yad",
+      "correctMeaning": "Hand",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:26",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:26",
+          "position": 9
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_174",
+      "arabicWord": "۞قَالَ",
+      "normalizedForm": "قال",
+      "transliteration": "Qala",
+      "correctMeaning": "He said",
+      "distractors": [
+        "He went",
+        "They came",
+        "We saw"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:27",
+      "occurrenceCount": 2,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:27",
+          "position": 0
+        },
+        {
+          "ayahRef": "50:28",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "verb",
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "vocab_50_175",
+      "arabicWord": "رَبَّنَا",
+      "normalizedForm": "ربنا",
+      "transliteration": "Rabbana",
+      "correctMeaning": "Our Lord",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:27",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:27",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_176",
+      "arabicWord": "أَطۡغَيۡتُهُۥ",
+      "normalizedForm": "أطغيته",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:27",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:27",
+          "position": 4
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_177",
+      "arabicWord": "وَلَٰكِن",
+      "normalizedForm": "ولٰكن",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:27",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:27",
+          "position": 5
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_178",
+      "arabicWord": "كَانَ",
+      "normalizedForm": "كان",
+      "transliteration": "Kana",
+      "correctMeaning": "Was/To be",
+      "distractors": [
+        "He went",
+        "They came",
+        "We saw"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:27",
+      "occurrenceCount": 2,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:27",
+          "position": 6
+        },
+        {
+          "ayahRef": "50:37",
+          "position": 5
+        }
+      ],
+      "difficulty": "hard",
+      "category": "verb",
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "vocab_50_179",
+      "arabicWord": "ضَلَٰلِۭ",
+      "normalizedForm": "ضلٰل",
+      "transliteration": "Dalla",
+      "correctMeaning": "He went astray",
+      "distractors": [
+        "He went",
+        "They came",
+        "We saw"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:27",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:27",
+          "position": 8
+        }
+      ],
+      "difficulty": "hard",
+      "category": "verb",
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "vocab_50_180",
+      "arabicWord": "لَا",
+      "normalizedForm": "لا",
+      "transliteration": "La",
+      "correctMeaning": "No/Not",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:28",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:28",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_181",
+      "arabicWord": "تَخۡتَصِمُواْ",
+      "normalizedForm": "تختصموا",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:28",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:28",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_182",
+      "arabicWord": "وَقَدۡ",
+      "normalizedForm": "وقد",
+      "transliteration": "Qad",
+      "correctMeaning": "Already/Indeed",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "50:28",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:28",
+          "position": 4
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_183",
+      "arabicWord": "قَدَّمۡتُ",
+      "normalizedForm": "قدمت",
+      "transliteration": "Qad",
+      "correctMeaning": "Already/Indeed",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:28",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:28",
+          "position": 5
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_184",
+      "arabicWord": "إِلَيۡكُم",
+      "normalizedForm": "إليكم",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:28",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:28",
+          "position": 6
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_185",
+      "arabicWord": "بِٱلۡوَعِيدِ",
+      "normalizedForm": "بالوعيد",
+      "transliteration": "Yad",
+      "correctMeaning": "Hand",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:28",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:28",
+          "position": 7
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_186",
+      "arabicWord": "يُبَدَّلُ",
+      "normalizedForm": "يبدل",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:29",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:29",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_187",
+      "arabicWord": "ٱلۡقَوۡلُ",
+      "normalizedForm": "القول",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:29",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:29",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_188",
+      "arabicWord": "أَنَا۠",
+      "normalizedForm": "أنا",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:29",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:29",
+          "position": 5
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_189",
+      "arabicWord": "بِظَلَّـٰمٖ",
+      "normalizedForm": "بظلـٰم",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:29",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:29",
+          "position": 6
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_190",
+      "arabicWord": "لِّلۡعَبِيدِ",
+      "normalizedForm": "للعبيد",
+      "transliteration": "Yad",
+      "correctMeaning": "Hand",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:29",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:29",
+          "position": 7
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_191",
+      "arabicWord": "نَقُولُ",
+      "normalizedForm": "نقول",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:30",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:30",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_192",
+      "arabicWord": "لِجَهَنَّمَ",
+      "normalizedForm": "لجهنم",
+      "transliteration": "Jahannam",
+      "correctMeaning": "Hell",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "50:30",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:30",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_193",
+      "arabicWord": "هَلِ",
+      "normalizedForm": "هل",
+      "transliteration": "Hal",
+      "correctMeaning": "Is/Are (question)",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:30",
+      "occurrenceCount": 3,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:30",
+          "position": 3
+        },
+        {
+          "ayahRef": "50:30",
+          "position": 6
+        },
+        {
+          "ayahRef": "50:36",
+          "position": 12
+        }
+      ],
+      "difficulty": "medium",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_194",
+      "arabicWord": "ٱمۡتَلَأۡتِ",
+      "normalizedForm": "امتلأت",
+      "transliteration": "Umm",
+      "correctMeaning": "Mother",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:30",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:30",
+          "position": 4
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_195",
+      "arabicWord": "وَتَقُولُ",
+      "normalizedForm": "وتقول",
+      "transliteration": "Taqul",
+      "correctMeaning": "You say",
+      "distractors": [
+        "He went",
+        "They came",
+        "We saw"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "50:30",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:30",
+          "position": 5
+        }
+      ],
+      "difficulty": "hard",
+      "category": "verb",
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "vocab_50_196",
+      "arabicWord": "مَّزِيدٖ",
+      "normalizedForm": "مزيد",
+      "transliteration": "Yad",
+      "correctMeaning": "Hand",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:30",
+      "occurrenceCount": 2,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:30",
+          "position": 8
+        },
+        {
+          "ayahRef": "50:35",
+          "position": 5
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_197",
+      "arabicWord": "وَأُزۡلِفَتِ",
+      "normalizedForm": "وأزلفت",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:31",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:31",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_198",
+      "arabicWord": "ٱلۡجَنَّةُ",
+      "normalizedForm": "الجنة",
+      "transliteration": "Jannah",
+      "correctMeaning": "Paradise/Garden",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "50:31",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:31",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_199",
+      "arabicWord": "لِلۡمُتَّقِينَ",
+      "normalizedForm": "للمتقين",
+      "transliteration": "Muttaqeen",
+      "correctMeaning": "God-fearing",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:31",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:31",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_200",
+      "arabicWord": "غَيۡرَ",
+      "normalizedForm": "غير",
+      "transliteration": "Ghayr",
+      "correctMeaning": "Other than/Without",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:31",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:31",
+          "position": 3
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_201",
+      "arabicWord": "تُوعَدُونَ",
+      "normalizedForm": "توعدون",
+      "transliteration": "Dun",
+      "correctMeaning": "Without/Below",
+      "distractors": [
+        "In",
+        "From",
+        "To"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:32",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:32",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "preposition",
+      "tags": [
+        "preposition"
+      ]
+    },
+    {
+      "id": "vocab_50_202",
+      "arabicWord": "أَوَّابٍ",
+      "normalizedForm": "أواب",
+      "transliteration": "Ab",
+      "correctMeaning": "Father",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:32",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:32",
+          "position": 4
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_203",
+      "arabicWord": "خَشِيَ",
+      "normalizedForm": "خشي",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:33",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:33",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_204",
+      "arabicWord": "ٱلرَّحۡمَٰنَ",
+      "normalizedForm": "الرحمٰن",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:33",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:33",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_205",
+      "arabicWord": "بِٱلۡغَيۡبِ",
+      "normalizedForm": "بالغيب",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:33",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:33",
+          "position": 3
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_206",
+      "arabicWord": "وَجَآءَ",
+      "normalizedForm": "وجاء",
+      "transliteration": "Ja'a",
+      "correctMeaning": "He came",
+      "distractors": [
+        "He went",
+        "They came",
+        "We saw"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "50:33",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:33",
+          "position": 4
+        }
+      ],
+      "difficulty": "hard",
+      "category": "verb",
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "vocab_50_207",
+      "arabicWord": "بِقَلۡبٖ",
+      "normalizedForm": "بقلب",
+      "transliteration": "Qalb",
+      "correctMeaning": "Heart",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "50:33",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:33",
+          "position": 5
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_208",
+      "arabicWord": "ٱدۡخُلُوهَا",
+      "normalizedForm": "ادخلوها",
+      "transliteration": "Law",
+      "correctMeaning": "If",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:34",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:34",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_209",
+      "arabicWord": "بِسَلَٰمٖۖ",
+      "normalizedForm": "بسلٰم",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:34",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:34",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_210",
+      "arabicWord": "ٱلۡخُلُودِ",
+      "normalizedForm": "الخلود",
+      "transliteration": "Law",
+      "correctMeaning": "If",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:34",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:34",
+          "position": 4
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_211",
+      "arabicWord": "لَهُم",
+      "normalizedForm": "لهم",
+      "transliteration": "Lahum",
+      "correctMeaning": "For them",
+      "distractors": [
+        "He",
+        "They",
+        "We"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:35",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:35",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "pronoun",
+      "tags": [
+        "pronoun"
+      ]
+    },
+    {
+      "id": "vocab_50_212",
+      "arabicWord": "يَشَآءُونَ",
+      "normalizedForm": "يشاءون",
+      "transliteration": "Sha'a",
+      "correctMeaning": "He willed",
+      "distractors": [
+        "He went",
+        "They came",
+        "We saw"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:35",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:35",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "verb",
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "vocab_50_213",
+      "arabicWord": "وَلَدَيۡنَا",
+      "normalizedForm": "ولدينا",
+      "transliteration": "Deen",
+      "correctMeaning": "Religion/Judgment",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:35",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:35",
+          "position": 4
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_214",
+      "arabicWord": "وَكَمۡ",
+      "normalizedForm": "وكم",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:36",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:36",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_215",
+      "arabicWord": "أَهۡلَكۡنَا",
+      "normalizedForm": "أهلكنا",
+      "transliteration": "Laka",
+      "correctMeaning": "For you",
+      "distractors": [
+        "He",
+        "They",
+        "We"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:36",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:36",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "pronoun",
+      "tags": [
+        "pronoun"
+      ]
+    },
+    {
+      "id": "vocab_50_216",
+      "arabicWord": "قَرۡنٍ",
+      "normalizedForm": "قرن",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:36",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:36",
+          "position": 4
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_217",
+      "arabicWord": "أَشَدُّ",
+      "normalizedForm": "أشد",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:36",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:36",
+          "position": 6
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_218",
+      "arabicWord": "بَطۡشٗا",
+      "normalizedForm": "بطشا",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:36",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:36",
+          "position": 8
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_219",
+      "arabicWord": "فَنَقَّبُواْ",
+      "normalizedForm": "فنقبوا",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:36",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:36",
+          "position": 9
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_220",
+      "arabicWord": "ٱلۡبِلَٰدِ",
+      "normalizedForm": "البلٰد",
+      "transliteration": "Bal",
+      "correctMeaning": "Rather/But",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:36",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:36",
+          "position": 11
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_221",
+      "arabicWord": "مَّحِيصٍ",
+      "normalizedForm": "محيص",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:36",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:36",
+          "position": 14
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_222",
+      "arabicWord": "إِنَّ",
+      "normalizedForm": "إن",
+      "transliteration": "Inna",
+      "correctMeaning": "Indeed/Verily",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:37",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:37",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_223",
+      "arabicWord": "لَذِكۡرَىٰ",
+      "normalizedForm": "لذكرىٰ",
+      "transliteration": "Dhikr",
+      "correctMeaning": "Remembrance",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:37",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:37",
+          "position": 3
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_224",
+      "arabicWord": "لِمَن",
+      "normalizedForm": "لمن",
+      "transliteration": "Min",
+      "correctMeaning": "From/Of",
+      "distractors": [
+        "In",
+        "From",
+        "To"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "50:37",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:37",
+          "position": 4
+        }
+      ],
+      "difficulty": "hard",
+      "category": "preposition",
+      "tags": [
+        "preposition"
+      ]
+    },
+    {
+      "id": "vocab_50_225",
+      "arabicWord": "لَهُۥ",
+      "normalizedForm": "له",
+      "transliteration": "Lahu",
+      "correctMeaning": "For him",
+      "distractors": [
+        "He",
+        "They",
+        "We"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:37",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:37",
+          "position": 6
+        }
+      ],
+      "difficulty": "hard",
+      "category": "pronoun",
+      "tags": [
+        "pronoun"
+      ]
+    },
+    {
+      "id": "vocab_50_226",
+      "arabicWord": "قَلۡبٌ",
+      "normalizedForm": "قلب",
+      "transliteration": "Qalb",
+      "correctMeaning": "Heart",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:37",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:37",
+          "position": 7
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_227",
+      "arabicWord": "أَوۡ",
+      "normalizedForm": "أو",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:37",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:37",
+          "position": 8
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_228",
+      "arabicWord": "أَلۡقَى",
+      "normalizedForm": "ألقى",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:37",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:37",
+          "position": 9
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_229",
+      "arabicWord": "ٱلسَّمۡعَ",
+      "normalizedForm": "السمع",
+      "transliteration": "Sami'a",
+      "correctMeaning": "He heard",
+      "distractors": [
+        "He went",
+        "They came",
+        "We saw"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "50:37",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:37",
+          "position": 10
+        }
+      ],
+      "difficulty": "hard",
+      "category": "verb",
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "vocab_50_230",
+      "arabicWord": "وَهُوَ",
+      "normalizedForm": "وهو",
+      "transliteration": "Huwa",
+      "correctMeaning": "He",
+      "distractors": [
+        "He",
+        "They",
+        "We"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "50:37",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:37",
+          "position": 11
+        }
+      ],
+      "difficulty": "hard",
+      "category": "pronoun",
+      "tags": [
+        "pronoun"
+      ]
+    },
+    {
+      "id": "vocab_50_231",
+      "arabicWord": "شَهِيدٞ",
+      "normalizedForm": "شهيد",
+      "transliteration": "Yad",
+      "correctMeaning": "Hand",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:37",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:37",
+          "position": 12
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_232",
+      "arabicWord": "ٱلسَّمَٰوَٰتِ",
+      "normalizedForm": "السمٰوٰت",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:38",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:38",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_233",
+      "arabicWord": "بَيۡنَهُمَا",
+      "normalizedForm": "بينهما",
+      "transliteration": "Hum",
+      "correctMeaning": "They",
+      "distractors": [
+        "He",
+        "They",
+        "We"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:38",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:38",
+          "position": 5
+        }
+      ],
+      "difficulty": "hard",
+      "category": "pronoun",
+      "tags": [
+        "pronoun"
+      ]
+    },
+    {
+      "id": "vocab_50_234",
+      "arabicWord": "سِتَّةِ",
+      "normalizedForm": "ستة",
+      "transliteration": "Sittah",
+      "correctMeaning": "Six",
+      "distractors": [
+        "Option A",
+        "Option B",
+        "Option C"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:38",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:38",
+          "position": 7
+        }
+      ],
+      "difficulty": "hard",
+      "category": "number",
+      "tags": [
+        "number"
+      ]
+    },
+    {
+      "id": "vocab_50_235",
+      "arabicWord": "أَيَّامٖ",
+      "normalizedForm": "أيام",
+      "transliteration": "Ya",
+      "correctMeaning": "O (vocative)",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:38",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:38",
+          "position": 8
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_236",
+      "arabicWord": "مَسَّنَا",
+      "normalizedForm": "مسنا",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:38",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:38",
+          "position": 10
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_237",
+      "arabicWord": "لُّغُوبٖ",
+      "normalizedForm": "لغوب",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:38",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:38",
+          "position": 12
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_238",
+      "arabicWord": "فَٱصۡبِرۡ",
+      "normalizedForm": "فاصبر",
+      "transliteration": "Sabr",
+      "correctMeaning": "Patience",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:39",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:39",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_239",
+      "arabicWord": "عَلَىٰ",
+      "normalizedForm": "علىٰ",
+      "transliteration": "Ala",
+      "correctMeaning": "Upon/On",
+      "distractors": [
+        "In",
+        "From",
+        "To"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:39",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:39",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "preposition",
+      "tags": [
+        "preposition"
+      ]
+    },
+    {
+      "id": "vocab_50_240",
+      "arabicWord": "يَقُولُونَ",
+      "normalizedForm": "يقولون",
+      "transliteration": "Law",
+      "correctMeaning": "If",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:39",
+      "occurrenceCount": 2,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:39",
+          "position": 3
+        },
+        {
+          "ayahRef": "50:45",
+          "position": 3
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_241",
+      "arabicWord": "وَسَبِّحۡ",
+      "normalizedForm": "وسبح",
+      "transliteration": "Sabbaha",
+      "correctMeaning": "He glorified",
+      "distractors": [
+        "He went",
+        "They came",
+        "We saw"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "50:39",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:39",
+          "position": 4
+        }
+      ],
+      "difficulty": "hard",
+      "category": "verb",
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "vocab_50_242",
+      "arabicWord": "بِحَمۡدِ",
+      "normalizedForm": "بحمد",
+      "transliteration": "Hamd",
+      "correctMeaning": "Praise",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "50:39",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:39",
+          "position": 5
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_243",
+      "arabicWord": "رَبِّكَ",
+      "normalizedForm": "ربك",
+      "transliteration": "Rabbuka",
+      "correctMeaning": "Your Lord",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:39",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:39",
+          "position": 6
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_244",
+      "arabicWord": "قَبۡلَ",
+      "normalizedForm": "قبل",
+      "transliteration": "Qabl",
+      "correctMeaning": "Before",
+      "distractors": [
+        "In",
+        "From",
+        "To"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:39",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:39",
+          "position": 7
+        }
+      ],
+      "difficulty": "hard",
+      "category": "preposition",
+      "tags": [
+        "preposition"
+      ]
+    },
+    {
+      "id": "vocab_50_245",
+      "arabicWord": "طُلُوعِ",
+      "normalizedForm": "طلوع",
+      "transliteration": "Law",
+      "correctMeaning": "If",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:39",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:39",
+          "position": 8
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_246",
+      "arabicWord": "ٱلشَّمۡسِ",
+      "normalizedForm": "الشمس",
+      "transliteration": "Shams",
+      "correctMeaning": "Sun",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "50:39",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:39",
+          "position": 9
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_247",
+      "arabicWord": "وَقَبۡلَ",
+      "normalizedForm": "وقبل",
+      "transliteration": "Qabl",
+      "correctMeaning": "Before",
+      "distractors": [
+        "In",
+        "From",
+        "To"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "50:39",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:39",
+          "position": 10
+        }
+      ],
+      "difficulty": "hard",
+      "category": "preposition",
+      "tags": [
+        "preposition"
+      ]
+    },
+    {
+      "id": "vocab_50_248",
+      "arabicWord": "ٱلۡغُرُوبِ",
+      "normalizedForm": "الغروب",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:39",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:39",
+          "position": 11
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_249",
+      "arabicWord": "وَمِنَ",
+      "normalizedForm": "ومن",
+      "transliteration": "Min",
+      "correctMeaning": "From/Of",
+      "distractors": [
+        "In",
+        "From",
+        "To"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "50:40",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:40",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "preposition",
+      "tags": [
+        "preposition"
+      ]
+    },
+    {
+      "id": "vocab_50_250",
+      "arabicWord": "ٱلَّيۡلِ",
+      "normalizedForm": "اليل",
+      "transliteration": "Layl",
+      "correctMeaning": "Night",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:40",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:40",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_251",
+      "arabicWord": "فَسَبِّحۡهُ",
+      "normalizedForm": "فسبحه",
+      "transliteration": "Sabbaha",
+      "correctMeaning": "He glorified",
+      "distractors": [
+        "He went",
+        "They came",
+        "We saw"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:40",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:40",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "verb",
+      "tags": [
+        "verb"
+      ]
+    },
+    {
+      "id": "vocab_50_252",
+      "arabicWord": "وَأَدۡبَٰرَ",
+      "normalizedForm": "وأدبٰر",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:40",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:40",
+          "position": 3
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_253",
+      "arabicWord": "ٱلسُّجُودِ",
+      "normalizedForm": "السجود",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:40",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:40",
+          "position": 4
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_254",
+      "arabicWord": "وَٱسۡتَمِعۡ",
+      "normalizedForm": "واستمع",
+      "transliteration": "Ma'a",
+      "correctMeaning": "With",
+      "distractors": [
+        "In",
+        "From",
+        "To"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:41",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:41",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "preposition",
+      "tags": [
+        "preposition"
+      ]
+    },
+    {
+      "id": "vocab_50_255",
+      "arabicWord": "يُنَادِ",
+      "normalizedForm": "يناد",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:41",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:41",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_256",
+      "arabicWord": "ٱلۡمُنَادِ",
+      "normalizedForm": "المناد",
+      "transliteration": "Min",
+      "correctMeaning": "From/Of",
+      "distractors": [
+        "In",
+        "From",
+        "To"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:41",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:41",
+          "position": 3
+        }
+      ],
+      "difficulty": "hard",
+      "category": "preposition",
+      "tags": [
+        "preposition"
+      ]
+    },
+    {
+      "id": "vocab_50_257",
+      "arabicWord": "مَّكَانٖ",
+      "normalizedForm": "مكان",
+      "transliteration": "Anna/Inna",
+      "correctMeaning": "That/Indeed",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:41",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:41",
+          "position": 5
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_258",
+      "arabicWord": "قَرِيبٖ",
+      "normalizedForm": "قريب",
+      "transliteration": "Qareeb",
+      "correctMeaning": "Near",
+      "distractors": [
+        "Great",
+        "Small",
+        "Near"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:41",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:41",
+          "position": 6
+        }
+      ],
+      "difficulty": "hard",
+      "category": "adjective",
+      "tags": [
+        "adjective"
+      ]
+    },
+    {
+      "id": "vocab_50_259",
+      "arabicWord": "يَسۡمَعُونَ",
+      "normalizedForm": "يسمعون",
+      "transliteration": "Ma'a",
+      "correctMeaning": "With",
+      "distractors": [
+        "In",
+        "From",
+        "To"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:42",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:42",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "preposition",
+      "tags": [
+        "preposition"
+      ]
+    },
+    {
+      "id": "vocab_50_260",
+      "arabicWord": "ٱلصَّيۡحَةَ",
+      "normalizedForm": "الصيحة",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:42",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:42",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_261",
+      "arabicWord": "إِنَّا",
+      "normalizedForm": "إنا",
+      "transliteration": "Inna",
+      "correctMeaning": "Indeed/Verily",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:43",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:43",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_262",
+      "arabicWord": "نَحۡنُ",
+      "normalizedForm": "نحن",
+      "transliteration": "Nahnu",
+      "correctMeaning": "We",
+      "distractors": [
+        "He",
+        "They",
+        "We"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:43",
+      "occurrenceCount": 2,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:43",
+          "position": 1
+        },
+        {
+          "ayahRef": "50:45",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "pronoun",
+      "tags": [
+        "pronoun"
+      ]
+    },
+    {
+      "id": "vocab_50_263",
+      "arabicWord": "نُحۡيِۦ",
+      "normalizedForm": "نحي",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:43",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:43",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_264",
+      "arabicWord": "وَنُمِيتُ",
+      "normalizedForm": "ونميت",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:43",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:43",
+          "position": 3
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_265",
+      "arabicWord": "وَإِلَيۡنَا",
+      "normalizedForm": "وإلينا",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:43",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:43",
+          "position": 4
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_266",
+      "arabicWord": "ٱلۡمَصِيرُ",
+      "normalizedForm": "المصير",
+      "transliteration": "Lam",
+      "correctMeaning": "Did not",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:43",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:43",
+          "position": 5
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_267",
+      "arabicWord": "تَشَقَّقُ",
+      "normalizedForm": "تشقق",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:44",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:44",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_268",
+      "arabicWord": "عَنۡهُمۡ",
+      "normalizedForm": "عنهم",
+      "transliteration": "Hum",
+      "correctMeaning": "They",
+      "distractors": [
+        "He",
+        "They",
+        "We"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:44",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:44",
+          "position": 3
+        }
+      ],
+      "difficulty": "hard",
+      "category": "pronoun",
+      "tags": [
+        "pronoun"
+      ]
+    },
+    {
+      "id": "vocab_50_269",
+      "arabicWord": "سِرَاعٗاۚ",
+      "normalizedForm": "سراعا",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:44",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:44",
+          "position": 4
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_270",
+      "arabicWord": "حَشۡرٌ",
+      "normalizedForm": "حشر",
+      "transliteration": "Sharr",
+      "correctMeaning": "Evil",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:44",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:44",
+          "position": 6
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_271",
+      "arabicWord": "عَلَيۡنَا",
+      "normalizedForm": "علينا",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:44",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:44",
+          "position": 7
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_272",
+      "arabicWord": "يَسِيرٞ",
+      "normalizedForm": "يسير",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:44",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:44",
+          "position": 8
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_273",
+      "arabicWord": "أَعۡلَمُ",
+      "normalizedForm": "أعلم",
+      "transliteration": "Lam",
+      "correctMeaning": "Did not",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:45",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:45",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_274",
+      "arabicWord": "بِمَا",
+      "normalizedForm": "بما",
+      "transliteration": "Ma",
+      "correctMeaning": "What/Not",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "50:45",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:45",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_275",
+      "arabicWord": "أَنتَ",
+      "normalizedForm": "أنت",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:45",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:45",
+          "position": 5
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_276",
+      "arabicWord": "عَلَيۡهِم",
+      "normalizedForm": "عليهم",
+      "transliteration": "Alayhim",
+      "correctMeaning": "Upon them",
+      "distractors": [
+        "He",
+        "They",
+        "We"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:45",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:45",
+          "position": 6
+        }
+      ],
+      "difficulty": "hard",
+      "category": "pronoun",
+      "tags": [
+        "pronoun"
+      ]
+    },
+    {
+      "id": "vocab_50_277",
+      "arabicWord": "بِجَبَّارٖۖ",
+      "normalizedForm": "بجبار",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "50:45",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:45",
+          "position": 7
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_50_278",
+      "arabicWord": "فَذَكِّرۡ",
+      "normalizedForm": "فذكر",
+      "transliteration": "Dhikr",
+      "correctMeaning": "Remembrance",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "50:45",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:45",
+          "position": 8
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_50_279",
+      "arabicWord": "بِٱلۡقُرۡءَانِ",
+      "normalizedForm": "بالقرءان",
+      "transliteration": "Anna/Inna",
+      "correctMeaning": "That/Indeed",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "50:45",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:45",
+          "position": 9
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_50_280",
+      "arabicWord": "يَخَافُ",
+      "normalizedForm": "يخاف",
+      "transliteration": "Yakhaf",
+      "correctMeaning": "He fears",
+      "distractors": [
+        "He went",
+        "They came",
+        "We saw"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "50:45",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "50:45",
+          "position": 11
+        }
+      ],
+      "difficulty": "hard",
+      "category": "verb",
+      "tags": [
+        "verb"
+      ]
+    }
+  ],
+  "tafsirQuiz": [
+    {
+      "id": "tafsir_50_1_0",
+      "type": "tafsir",
+      "questionType": "warningPromise",
+      "question": "What does this verse warn or promise?",
+      "correctAnswer": "The reason for this is that the prophet appears to his contemporaries as ‘a person just like themselves’. They find it surprising that one whom they have always treated as their equal should suddenly become great and start advising them",
+      "distractors": [
+        "This verse describes the characteristics of believers",
+        "This verse explains the rules of inheritance",
+        "This verse talks about the stories of previous prophets"
+      ],
+      "surahNumber": 50,
+      "ayahNumber": 1,
+      "ayahKey": "50:1",
+      "themes": {
+        "hasWarning": true,
+        "hasPromise": false,
+        "hasGuidance": false,
+        "hasWorship": false,
+        "hasUnity": false,
+        "hasMorality": true,
+        "hasHereafter": false,
+        "hasCreation": false
+      },
+      "difficulty": "medium",
+      "keywords": [
+        "reject",
+        "sin",
+        "just"
+      ],
+      "coveredAyahs": [
+        "50:1",
+        "50:2",
+        "50:3",
+        "50:4",
+        "50:5"
+      ]
+    },
+    {
+      "id": "tafsir_50_6_1",
+      "type": "tafsir",
+      "questionType": "concept",
+      "question": "What key concept does this verse highlight?",
+      "correctAnswer": "He will see a glimpse of the other world (the Hereafter) in this world, because, in fact, the world of the Hereafter is essentially another, more superior form of the present world",
+      "distractors": [
+        "This verse promises paradise to the righteous",
+        "This verse warns about the punishment of disbelievers",
+        "This verse narrates a historical event"
+      ],
+      "surahNumber": 50,
+      "ayahNumber": 6,
+      "ayahKey": "50:6",
+      "themes": {
+        "hasWarning": false,
+        "hasPromise": false,
+        "hasGuidance": true,
+        "hasWorship": false,
+        "hasUnity": false,
+        "hasMorality": false,
+        "hasHereafter": true,
+        "hasCreation": true
+      },
+      "difficulty": "easy",
+      "keywords": [
+        "wisdom",
+        "hereafter",
+        "creat",
+        "universe",
+        "world"
+      ],
+      "coveredAyahs": [
+        "50:6",
+        "50:7",
+        "50:8",
+        "50:9",
+        "50:10",
+        "50:11"
+      ]
+    },
+    {
+      "id": "tafsir_50_12_2",
+      "type": "tafsir",
+      "questionType": "warningPromise",
+      "question": "What consequence is described in this ayah?",
+      "correctAnswer": "A part of the punishment the rejecters of Truth are destined to receive in the Hereafter is shown here in this world of today. The destruction of these peoples is, in fact, a sample of the conditions in the Hereafter",
+      "distractors": [
+        "This verse talks about the stories of previous prophets",
+        "This verse describes the characteristics of believers",
+        "This verse explains the rules of inheritance"
+      ],
+      "surahNumber": 50,
+      "ayahNumber": 12,
+      "ayahKey": "50:12",
+      "themes": {
+        "hasWarning": true,
+        "hasPromise": false,
+        "hasGuidance": true,
+        "hasWorship": false,
+        "hasUnity": false,
+        "hasMorality": false,
+        "hasHereafter": true,
+        "hasCreation": true
+      },
+      "difficulty": "medium",
+      "keywords": [
+        "punishment",
+        "destruction",
+        "reject",
+        "truth",
+        "hereafter"
+      ],
+      "coveredAyahs": [
+        "50:12",
+        "50:13",
+        "50:14",
+        "50:15"
+      ]
+    },
+    {
+      "id": "tafsir_50_16_3",
+      "type": "tafsir",
+      "questionType": "concept",
+      "question": "Which concept is emphasized in Surah Qaf, Ayah 16?",
+      "correctAnswer": "All these are known facts of today, and these known facts are what make the Quran’s claim credible that man’s intentions, his utterances and his actions, are all in the knowledge of his Creator",
+      "distractors": [
+        "This verse gives rulings on trade and commerce",
+        "This verse warns about the punishment of disbelievers",
+        "This verse promises paradise to the righteous"
+      ],
+      "surahNumber": 50,
+      "ayahNumber": 16,
+      "ayahKey": "50:16",
+      "themes": {
+        "hasWarning": false,
+        "hasPromise": false,
+        "hasGuidance": true,
+        "hasWorship": false,
+        "hasUnity": false,
+        "hasMorality": true,
+        "hasHereafter": false,
+        "hasCreation": true
+      },
+      "difficulty": "medium",
+      "keywords": [
+        "know",
+        "fair",
+        "creat",
+        "world"
+      ],
+      "coveredAyahs": [
+        "50:16",
+        "50:17",
+        "50:18"
+      ]
+    },
+    {
+      "id": "tafsir_50_19_4",
+      "type": "tafsir",
+      "questionType": "warningPromise",
+      "question": "What warning or glad tiding is mentioned in Surah Qaf, Ayah 19?",
+      "correctAnswer": "A picture of death and Doomsday thereafter has been drawn in these verses. It shows what will happen to those who, finding themselves free in this world, became arrogant",
+      "distractors": [
+        "This verse explains the rules of inheritance",
+        "This verse talks about the stories of previous prophets",
+        "This verse describes the characteristics of believers"
+      ],
+      "surahNumber": 50,
+      "ayahNumber": 19,
+      "ayahKey": "50:19",
+      "themes": {
+        "hasWarning": true,
+        "hasPromise": false,
+        "hasGuidance": false,
+        "hasWorship": false,
+        "hasUnity": false,
+        "hasMorality": false,
+        "hasHereafter": true,
+        "hasCreation": true
+      },
+      "difficulty": "easy",
+      "keywords": [
+        "doom",
+        "hereafter",
+        "world"
+      ],
+      "coveredAyahs": [
+        "50:19",
+        "50:20",
+        "50:21",
+        "50:22",
+        "50:23",
+        "50:24",
+        "50:25",
+        "50:26",
+        "50:27",
+        "50:28",
+        "50:29"
+      ]
+    },
+    {
+      "id": "tafsir_50_30_5",
+      "type": "tafsir",
+      "questionType": "warningPromise",
+      "question": "What consequence is described in this ayah?",
+      "correctAnswer": "Fear of God creates heavenly attributes in man, while a lack of fear creates the attributes of Hell. They are the people who, in this world, went in constant fear of God’s punishment",
+      "distractors": [
+        "This verse discusses the creation of the universe",
+        "This verse talks about the stories of previous prophets",
+        "This verse explains the rules of inheritance"
+      ],
+      "surahNumber": 50,
+      "ayahNumber": 30,
+      "ayahKey": "50:30",
+      "themes": {
+        "hasWarning": true,
+        "hasPromise": true,
+        "hasGuidance": false,
+        "hasWorship": false,
+        "hasUnity": false,
+        "hasMorality": false,
+        "hasHereafter": false,
+        "hasCreation": true
+      },
+      "difficulty": "easy",
+      "keywords": [
+        "punishment",
+        "hell",
+        "paradise",
+        "heaven",
+        "eternal"
+      ],
+      "coveredAyahs": [
+        "50:30",
+        "50:31",
+        "50:32",
+        "50:33",
+        "50:34",
+        "50:35"
+      ]
+    },
+    {
+      "id": "tafsir_50_36_6",
+      "type": "tafsir",
+      "questionType": "concept",
+      "question": "Which concept is emphasized in Surah Qaf, Ayah 36?",
+      "correctAnswer": "Nations of the world progress and rise until they reach their zenith. There are great lessons in these events of history",
+      "distractors": [
+        "This verse gives rulings on trade and commerce",
+        "This verse narrates a historical event",
+        "This verse promises paradise to the righteous"
+      ],
+      "surahNumber": 50,
+      "ayahNumber": 36,
+      "ayahKey": "50:36",
+      "themes": {
+        "hasWarning": false,
+        "hasPromise": false,
+        "hasGuidance": true,
+        "hasWorship": false,
+        "hasUnity": false,
+        "hasMorality": false,
+        "hasHereafter": false,
+        "hasCreation": true
+      },
+      "difficulty": "medium",
+      "keywords": [
+        "straight",
+        "learn",
+        "world"
+      ],
+      "coveredAyahs": [
+        "50:36",
+        "50:37"
+      ]
+    },
+    {
+      "id": "tafsir_50_38_7",
+      "type": "tafsir",
+      "questionType": "warningPromise",
+      "question": "What warning or glad tiding is mentioned in Surah Qaf, Ayah 38?",
+      "correctAnswer": "The creation of the heavens and the earth in six days, in other words in six stages, indicates that God’s method of doing things is a gradual one. In the Bible it is mentioned that God created heaven and earth in six days and rested on the seventh day",
+      "distractors": [
+        "This verse discusses the creation of the universe",
+        "This verse describes the characteristics of believers",
+        "This verse talks about the stories of previous prophets"
+      ],
+      "surahNumber": 50,
+      "ayahNumber": 38,
+      "ayahKey": "50:38",
+      "themes": {
+        "hasWarning": false,
+        "hasPromise": true,
+        "hasGuidance": false,
+        "hasWorship": true,
+        "hasUnity": false,
+        "hasMorality": false,
+        "hasHereafter": false,
+        "hasCreation": true
+      },
+      "difficulty": "medium",
+      "keywords": [
+        "heaven",
+        "rememb",
+        "creat",
+        "earth"
+      ],
+      "coveredAyahs": [
+        "50:38",
+        "50:39",
+        "50:40"
+      ]
+    },
+    {
+      "id": "tafsir_50_41_8",
+      "type": "tafsir",
+      "questionType": "warningPromise",
+      "question": "What consequence is described in this ayah?",
+      "correctAnswer": "After the blowing of the trumpet, the shape of heaven and earth will undergo a drastic change and all human beings will be assembled in a new world in order to receive eternal awards, such as befit their respective deeds",
+      "distractors": [
+        "This verse discusses the creation of the universe",
+        "This verse talks about the stories of previous prophets",
+        "This verse explains the rules of inheritance"
+      ],
+      "surahNumber": 50,
+      "ayahNumber": 41,
+      "ayahKey": "50:41",
+      "themes": {
+        "hasWarning": true,
+        "hasPromise": true,
+        "hasGuidance": false,
+        "hasWorship": false,
+        "hasUnity": false,
+        "hasMorality": false,
+        "hasHereafter": false,
+        "hasCreation": true
+      },
+      "difficulty": "medium",
+      "keywords": [
+        "warn",
+        "doom",
+        "heaven",
+        "eternal",
+        "believer"
+      ],
+      "coveredAyahs": [
+        "50:41",
+        "50:42",
+        "50:43",
+        "50:44"
+      ]
+    },
+    {
+      "id": "tafsir_50_45_9",
+      "type": "tafsir",
+      "questionType": "concept",
+      "question": "Which concept is emphasized in Surah Qaf, Ayah 45?",
+      "correctAnswer": "On the other hand, it has been stated in the Quran on more than one occasion that, through him, the Prophet Muhammad, God would cause the religion of Truth to prevail over all other religions",
+      "distractors": [
+        "This verse warns about the punishment of disbelievers",
+        "This verse promises paradise to the righteous",
+        "This verse narrates a historical event"
+      ],
+      "surahNumber": 50,
+      "ayahNumber": 45,
+      "ayahKey": "50:45",
+      "themes": {
+        "hasWarning": false,
+        "hasPromise": false,
+        "hasGuidance": true,
+        "hasWorship": false,
+        "hasUnity": false,
+        "hasMorality": false,
+        "hasHereafter": false,
+        "hasCreation": true
+      },
+      "difficulty": "medium",
+      "keywords": [
+        "guid",
+        "truth",
+        "creat"
+      ],
+      "coveredAyahs": [
+        "50:45"
+      ]
+    }
+  ],
+  "metadata": {
+    "totalVocabQuestions": 280,
+    "totalTafsirQuestions": 0,
+    "totalAyahs": 45,
+    "translationStats": {
+      "complete": 178,
+      "pending": 102,
+      "completionRate": 64
+    },
+    "difficultyBreakdown": {
+      "easy": 5,
+      "medium": 11,
+      "hard": 264
+    }
+  },
+  "tafsirQuizCount": 10
+}

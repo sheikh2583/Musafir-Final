@@ -1,0 +1,499 @@
+{
+  "surahNumber": 114,
+  "surahName": "An-Nas",
+  "surahNameArabic": "الناس",
+  "lastUpdated": "2026-02-02T05:39:52.039Z",
+  "vocabularyQuiz": [
+    {
+      "id": "vocab_114_1",
+      "arabicWord": "قُلۡ",
+      "normalizedForm": "قل",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "114:1",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "114:1",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_114_2",
+      "arabicWord": "أَعُوذُ",
+      "normalizedForm": "أعوذ",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "114:1",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "114:1",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_114_3",
+      "arabicWord": "بِرَبِّ",
+      "normalizedForm": "برب",
+      "transliteration": "Rabb",
+      "correctMeaning": "Lord",
+      "distractors": [
+        "The Creator",
+        "The Provider",
+        "The Sustainer"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "114:1",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "114:1",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "name-of-allah",
+      "tags": [
+        "name-of-allah"
+      ]
+    },
+    {
+      "id": "vocab_114_4",
+      "arabicWord": "ٱلنَّاسِ",
+      "normalizedForm": "الناس",
+      "transliteration": "Nas",
+      "correctMeaning": "People/Mankind",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "114:1",
+      "occurrenceCount": 4,
+      "allOccurrences": [
+        {
+          "ayahRef": "114:1",
+          "position": 3
+        },
+        {
+          "ayahRef": "114:2",
+          "position": 1
+        },
+        {
+          "ayahRef": "114:3",
+          "position": 1
+        },
+        {
+          "ayahRef": "114:5",
+          "position": 4
+        }
+      ],
+      "difficulty": "medium",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_114_5",
+      "arabicWord": "مَلِكِ",
+      "normalizedForm": "ملك",
+      "transliteration": "Malak",
+      "correctMeaning": "Angel/King",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "114:2",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "114:2",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_114_6",
+      "arabicWord": "إِلَٰهِ",
+      "normalizedForm": "إلٰه",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "114:3",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "114:3",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_114_7",
+      "arabicWord": "مِن",
+      "normalizedForm": "من",
+      "transliteration": "Min",
+      "correctMeaning": "From/Of",
+      "distractors": [
+        "In",
+        "From",
+        "To"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "114:4",
+      "occurrenceCount": 2,
+      "allOccurrences": [
+        {
+          "ayahRef": "114:4",
+          "position": 0
+        },
+        {
+          "ayahRef": "114:6",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "preposition",
+      "tags": [
+        "preposition"
+      ]
+    },
+    {
+      "id": "vocab_114_8",
+      "arabicWord": "شَرِّ",
+      "normalizedForm": "شر",
+      "transliteration": "Sharr",
+      "correctMeaning": "Evil",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "114:4",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "114:4",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_114_9",
+      "arabicWord": "ٱلۡوَسۡوَاسِ",
+      "normalizedForm": "الوسواس",
+      "transliteration": "Law",
+      "correctMeaning": "If",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "114:4",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "114:4",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_114_10",
+      "arabicWord": "ٱلۡخَنَّاسِ",
+      "normalizedForm": "الخناس",
+      "transliteration": "Khannas",
+      "correctMeaning": "Retreating",
+      "distractors": [
+        "Great",
+        "Small",
+        "Near"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "114:4",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "114:4",
+          "position": 3
+        }
+      ],
+      "difficulty": "hard",
+      "category": "adjective",
+      "tags": [
+        "adjective"
+      ]
+    },
+    {
+      "id": "vocab_114_11",
+      "arabicWord": "ٱلَّذِي",
+      "normalizedForm": "الذي",
+      "transliteration": "Alladhi",
+      "correctMeaning": "The one who/Which",
+      "distractors": [
+        "He",
+        "They",
+        "We"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "114:5",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "114:5",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "pronoun",
+      "tags": [
+        "pronoun"
+      ]
+    },
+    {
+      "id": "vocab_114_12",
+      "arabicWord": "يُوَسۡوِسُ",
+      "normalizedForm": "يوسوس",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "114:5",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "114:5",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_114_13",
+      "arabicWord": "فِي",
+      "normalizedForm": "في",
+      "transliteration": "Fi",
+      "correctMeaning": "In",
+      "distractors": [
+        "In",
+        "From",
+        "To"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "114:5",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "114:5",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "preposition",
+      "tags": [
+        "preposition"
+      ]
+    },
+    {
+      "id": "vocab_114_14",
+      "arabicWord": "صُدُورِ",
+      "normalizedForm": "صدور",
+      "transliteration": "Sudur",
+      "correctMeaning": "Chests/Hearts",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "114:5",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "114:5",
+          "position": 3
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_114_15",
+      "arabicWord": "ٱلۡجِنَّةِ",
+      "normalizedForm": "الجنة",
+      "transliteration": "Jannah",
+      "correctMeaning": "Paradise/Garden",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "root",
+      "ayahReference": "114:6",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "114:6",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_114_16",
+      "arabicWord": "وَٱلنَّاسِ",
+      "normalizedForm": "والناس",
+      "transliteration": "Nas",
+      "correctMeaning": "People/Mankind",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "114:6",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "114:6",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    }
+  ],
+  "tafsirQuiz": [
+    {
+      "id": "tafsir_114_1_0",
+      "type": "tafsir",
+      "questionType": "warningPromise",
+      "question": "What does this verse warn or promise?",
+      "correctAnswer": "Evil-inspirers are not only the known Satans, even among human beings there are certain Satan-like people who present themselves in artificial guises and, by means of deceitful words, brainwash others and put them on the path of misguidance",
+      "distractors": [
+        "This verse discusses the creation of the universe",
+        "This verse talks about the stories of previous prophets",
+        "This verse explains the rules of inheritance"
+      ],
+      "surahNumber": 114,
+      "ayahNumber": 1,
+      "ayahKey": "114:1",
+      "themes": {
+        "hasWarning": true,
+        "hasPromise": true,
+        "hasGuidance": true,
+        "hasWorship": true,
+        "hasUnity": true,
+        "hasMorality": true,
+        "hasHereafter": false,
+        "hasCreation": true
+      },
+      "difficulty": "medium",
+      "keywords": [
+        "evil",
+        "grace",
+        "believer",
+        "guid",
+        "path"
+      ],
+      "coveredAyahs": [
+        "114:1",
+        "114:2",
+        "114:3",
+        "114:4",
+        "114:5",
+        "114:6"
+      ]
+    }
+  ],
+  "metadata": {
+    "totalVocabQuestions": 16,
+    "totalTafsirQuestions": 0,
+    "totalAyahs": 6,
+    "translationStats": {
+      "complete": 12,
+      "pending": 4,
+      "completionRate": 75
+    },
+    "difficultyBreakdown": {
+      "easy": 0,
+      "medium": 1,
+      "hard": 15
+    }
+  },
+  "tafsirQuizCount": 1
+}

@@ -1,0 +1,580 @@
+{
+  "surahNumber": 109,
+  "surahName": "Al-Kafirun",
+  "surahNameArabic": "الكافرون",
+  "lastUpdated": "2026-02-02T05:39:52.036Z",
+  "vocabularyQuiz": [
+    {
+      "id": "vocab_109_1",
+      "arabicWord": "قُلۡ",
+      "normalizedForm": "قل",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "109:1",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "109:1",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_109_2",
+      "arabicWord": "يَـٰٓأَيُّهَا",
+      "normalizedForm": "يـٰأيها",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "109:1",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "109:1",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_109_3",
+      "arabicWord": "ٱلۡكَٰفِرُونَ",
+      "normalizedForm": "الكٰفرون",
+      "transliteration": "Laka",
+      "correctMeaning": "For you",
+      "distractors": [
+        "He",
+        "They",
+        "We"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "109:1",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "109:1",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "pronoun",
+      "tags": [
+        "pronoun"
+      ]
+    },
+    {
+      "id": "vocab_109_4",
+      "arabicWord": "لَآ",
+      "normalizedForm": "لا",
+      "transliteration": "La",
+      "correctMeaning": "No/Not",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "109:2",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "109:2",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_109_5",
+      "arabicWord": "أَعۡبُدُ",
+      "normalizedForm": "أعبد",
+      "transliteration": "Abd",
+      "correctMeaning": "Servant/Slave",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "109:2",
+      "occurrenceCount": 3,
+      "allOccurrences": [
+        {
+          "ayahRef": "109:2",
+          "position": 1
+        },
+        {
+          "ayahRef": "109:3",
+          "position": 4
+        },
+        {
+          "ayahRef": "109:5",
+          "position": 4
+        }
+      ],
+      "difficulty": "medium",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_109_6",
+      "arabicWord": "مَا",
+      "normalizedForm": "ما",
+      "transliteration": "Ma",
+      "correctMeaning": "What/Not",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "109:2",
+      "occurrenceCount": 4,
+      "allOccurrences": [
+        {
+          "ayahRef": "109:2",
+          "position": 2
+        },
+        {
+          "ayahRef": "109:3",
+          "position": 3
+        },
+        {
+          "ayahRef": "109:4",
+          "position": 3
+        },
+        {
+          "ayahRef": "109:5",
+          "position": 3
+        }
+      ],
+      "difficulty": "medium",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_109_7",
+      "arabicWord": "تَعۡبُدُونَ",
+      "normalizedForm": "تعبدون",
+      "transliteration": "Abd",
+      "correctMeaning": "Servant/Slave",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "109:2",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "109:2",
+          "position": 3
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_109_8",
+      "arabicWord": "وَلَآ",
+      "normalizedForm": "ولا",
+      "transliteration": "Wa la",
+      "correctMeaning": "And not/Nor",
+      "distractors": [
+        "Not",
+        "Indeed",
+        "When"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "109:3",
+      "occurrenceCount": 3,
+      "allOccurrences": [
+        {
+          "ayahRef": "109:3",
+          "position": 0
+        },
+        {
+          "ayahRef": "109:4",
+          "position": 0
+        },
+        {
+          "ayahRef": "109:5",
+          "position": 0
+        }
+      ],
+      "difficulty": "medium",
+      "category": "particle",
+      "tags": [
+        "particle"
+      ]
+    },
+    {
+      "id": "vocab_109_9",
+      "arabicWord": "أَنتُمۡ",
+      "normalizedForm": "أنتم",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "109:3",
+      "occurrenceCount": 2,
+      "allOccurrences": [
+        {
+          "ayahRef": "109:3",
+          "position": 1
+        },
+        {
+          "ayahRef": "109:5",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_109_10",
+      "arabicWord": "عَٰبِدُونَ",
+      "normalizedForm": "عٰبدون",
+      "transliteration": "Dun",
+      "correctMeaning": "Without/Below",
+      "distractors": [
+        "In",
+        "From",
+        "To"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "109:3",
+      "occurrenceCount": 2,
+      "allOccurrences": [
+        {
+          "ayahRef": "109:3",
+          "position": 2
+        },
+        {
+          "ayahRef": "109:5",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "preposition",
+      "tags": [
+        "preposition"
+      ]
+    },
+    {
+      "id": "vocab_109_11",
+      "arabicWord": "أَنَا۠",
+      "normalizedForm": "أنا",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "109:4",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "109:4",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_109_12",
+      "arabicWord": "عَابِدٞ",
+      "normalizedForm": "عابد",
+      "transliteration": "Ab",
+      "correctMeaning": "Father",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "109:4",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "109:4",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_109_13",
+      "arabicWord": "عَبَدتُّمۡ",
+      "normalizedForm": "عبدتم",
+      "transliteration": "Abd",
+      "correctMeaning": "Servant/Slave",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "109:4",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "109:4",
+          "position": 4
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_109_14",
+      "arabicWord": "لَكُمۡ",
+      "normalizedForm": "لكم",
+      "transliteration": "Lakum",
+      "correctMeaning": "For you",
+      "distractors": [
+        "He",
+        "They",
+        "We"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "109:6",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "109:6",
+          "position": 0
+        }
+      ],
+      "difficulty": "hard",
+      "category": "pronoun",
+      "tags": [
+        "pronoun"
+      ]
+    },
+    {
+      "id": "vocab_109_15",
+      "arabicWord": "دِينُكُمۡ",
+      "normalizedForm": "دينكم",
+      "transliteration": "Deen",
+      "correctMeaning": "Religion/Judgment",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "partial",
+      "ayahReference": "109:6",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "109:6",
+          "position": 1
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    },
+    {
+      "id": "vocab_109_16",
+      "arabicWord": "وَلِيَ",
+      "normalizedForm": "ولي",
+      "transliteration": "",
+      "correctMeaning": "",
+      "distractors": [],
+      "translationStatus": "pending",
+      "matchType": null,
+      "ayahReference": "109:6",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "109:6",
+          "position": 2
+        }
+      ],
+      "difficulty": "hard",
+      "category": "unknown",
+      "tags": [
+        "needs-review"
+      ]
+    },
+    {
+      "id": "vocab_109_17",
+      "arabicWord": "دِينِ",
+      "normalizedForm": "دين",
+      "transliteration": "Deen",
+      "correctMeaning": "Religion/Judgment",
+      "distractors": [
+        "The book",
+        "The path",
+        "The day"
+      ],
+      "translationStatus": "complete",
+      "matchType": "exact",
+      "ayahReference": "109:6",
+      "occurrenceCount": 1,
+      "allOccurrences": [
+        {
+          "ayahRef": "109:6",
+          "position": 3
+        }
+      ],
+      "difficulty": "hard",
+      "category": "noun",
+      "tags": [
+        "noun"
+      ]
+    }
+  ],
+  "tafsirQuiz": [
+    {
+      "id": "tafsir_109_1_0",
+      "type": "tafsir",
+      "questionType": "warningPromise",
+      "question": "What does this verse warn or promise?",
+      "correctAnswer": "But when in spite of completion of the arguments, the people did not accept him, he addressed them as ‘You who deny the Truth’. The Prophet’s duty was only to bear witness to the truth, spreading the message of God to everyone, without imposing it upon anyone",
+      "distractors": [
+        "This verse explains the rules of inheritance",
+        "This verse talks about the stories of previous prophets",
+        "This verse describes the characteristics of believers"
+      ],
+      "surahNumber": 109,
+      "ayahNumber": 1,
+      "ayahKey": "109:1",
+      "themes": {
+        "hasWarning": true,
+        "hasPromise": true,
+        "hasGuidance": true,
+        "hasWorship": true,
+        "hasUnity": false,
+        "hasMorality": false,
+        "hasHereafter": false,
+        "hasCreation": false
+      },
+      "difficulty": "medium",
+      "keywords": [
+        "reject",
+        "deny",
+        "sin",
+        "believer",
+        "guid"
+      ],
+      "coveredAyahs": [
+        "109:1"
+      ]
+    },
+    {
+      "id": "tafsir_109_2_1",
+      "type": "tafsir",
+      "questionType": "warningPromise",
+      "question": "What warning or glad tiding is mentioned in Surah Al-Kafirun, Ayah 2?",
+      "correctAnswer": "At such moments the faithful must be overwhelmed with the realization of God’s Grace and Mercy. The Prophet and his companions made untiring efforts in the path of dawah",
+      "distractors": [
+        "This verse discusses the creation of the universe",
+        "This verse talks about the stories of previous prophets",
+        "This verse explains the rules of inheritance"
+      ],
+      "surahNumber": 109,
+      "ayahNumber": 2,
+      "ayahKey": "109:2",
+      "themes": {
+        "hasWarning": false,
+        "hasPromise": true,
+        "hasGuidance": true,
+        "hasWorship": false,
+        "hasUnity": false,
+        "hasMorality": true,
+        "hasHereafter": false,
+        "hasCreation": true
+      },
+      "difficulty": "medium",
+      "keywords": [
+        "mercy",
+        "success",
+        "grace",
+        "believer",
+        "faithful"
+      ],
+      "coveredAyahs": [
+        "109:2",
+        "109:3",
+        "109:4",
+        "109:5",
+        "109:6",
+        "110:1",
+        "110:2",
+        "110:3"
+      ]
+    }
+  ],
+  "metadata": {
+    "totalVocabQuestions": 17,
+    "totalTafsirQuestions": 0,
+    "totalAyahs": 6,
+    "translationStats": {
+      "complete": 12,
+      "pending": 5,
+      "completionRate": 71
+    },
+    "difficultyBreakdown": {
+      "easy": 0,
+      "medium": 3,
+      "hard": 14
+    }
+  },
+  "tafsirQuizCount": 2
+}
